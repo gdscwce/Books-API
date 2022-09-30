@@ -2010,5 +2010,15 @@
 		"publishing-year": "2000",
 		"shopping-link": "https://www.amazon.in/Rich-Dad-Poor-Middle-Updates/dp/1612680194",
 		"download-link": "https://www.pdfdrive.com/rich-dad-poor-dad-e136494023.html"
+	},
+	{
+		"id": 72,
+		"name": "The Famous Five",
+		"number-pages": 458,
+		"author": "Enid Blyton",
+		"publishing-year": "1942",
+		"publisher": "Blyton",
+		"shopping-link": "https://www.amazon.com/famous-five-Enid-Blyton/dp/2830202848",
+		"download-link": "https://booksvooks.com/series/the-famous-five/"
 	}
 ]
