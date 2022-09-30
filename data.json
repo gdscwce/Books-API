@@ -221,7 +221,7 @@
 		"download-link": "https://www.booksfree.org/i-am-malala-pdf-free-download-a/"
 	},
 	{
-		"id": 24,
+		"id": 25,
 		"number-pages": 575,
 		"name": "Bhagwat Geeta",
 		"author": "prabhipada",
@@ -231,7 +231,7 @@
 		"download-link": "https://www.flipkart.com/bhagavad-gita-as-it-is/p/itmezunqsqzycegq"
 	},
 	{
-		"id": 25,
+		"id": 26,
 		"number-pages": 646,
 		"name": "It Ends With Us",
 		"author": "Colleen Hoover",
@@ -241,7 +241,7 @@
 		"download-link": "https://docer.tips/it-ends-with-us-colleen-hoover-eng-pdf.html"
 	},
 	{
-		"id": 26,
+		"id": 27,
 		"number-pages": 265,
 		"name": "Alchemist",
 		"author": "Panlo coelho",
@@ -251,7 +251,7 @@
 		"download-link": "https://www.gutenberg.org/ebooks/69065"
 	},
 	{
-		"id": 27,
+		"id": 28,
 		"number-pages": 245,
 		"name": "War and Peace",
 		"author": "Leo Tolstoy",
@@ -261,17 +261,17 @@
 		"download-link": "https://www.planetebook.com/war-and-peace/"
 	},
 	{
-		"id": 28,
-		"number-pages": 228,
-		"name": "The Monk Who Sold His Ferrari",
-		"author": "Robin Sharma",
-		"publishing-year": "1996",
-		"publisher": "Harper Collins Publishers",
-		"shopping-link": "https://www.amazon.in/Monk-Who-Sold-His-Ferrari/dp/0062515675",
-		"download-link": "https://www.apnamba.com/Ebooks-pdf/The%20Monk%20who%20sold%20his%20ferrari%20-%20Robin%20Sharma%20(PDF)%20%5BQwerty80%5D.pdf",
+		"id": 21,
+		"number-pages": 575,
+		"name": "Bhagwat Geeta",
+		"author": "prabhipada",
+		"publishing-year": "1968",
+		"publisher": "BhaktiVedanta bok trust",
+		"shopping-link": "https://www.flipkart.com/bhagavad-gita-as-it-is/p/itmezunqsqzycegq",
+		"download-link": "https://www.flipkart.com/bhagavad-gita-as-it-is/p/itmezunqsqzycegq"
 	},
 	{
-		"id": 29,
+		"id": 22,
 		"number-pages": 384,
 		"name": "The love hypothesis",
 		"author": "Ali Hazelwood",
@@ -280,23 +280,12 @@
 		"download-link": "https://www.ysk-books.com/en/show/book/the-love-hypothesis-pdf"
 	},
 	{
-		"id": 30,
-		"number-pages": 312,
-		"name": "Do epic shit",
-		"author": "Warikoo Ankur",
-		"publishing-year": "2021",
-		"publisher": "Juggernaut ",
-		"shopping-link": "https://www.amazon.in/DO-EPIC-SHIT-Ankur-Warikoo/dp/9391165486",
-		"download-link": "https://www.pdfread.net/ebook/do-epic-shit-ankur-warikoo/"
+		"id": 23,
+		"name": "Who Will Cry When You Die?",
+		"number-pages": 256,
+		"author": "Robin Sharma",
+		"publishing-year": "2006",
+		"shopping-link": "https://www.flipkart.com/cry-you-die/p/itmfc59vf9z9gzhd?pid=9788179922323&lid=LSTBOK9788179922323AUZUUO&marketplace=FLIPKART&q=who+will+cry+when+you+die&store=bks&spotlightTagId=BestvalueId_bks&srno=s_1_2&otracker=AS_QueryStore_OrganicAutoSuggest_1_13_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_13_na_na_na&fm=search-autosuggest&iid=7b07a191-36c3-48bd-99d5-bef9633a36f0.9788179922323.SEARCH&ppt=sp&ppn=sp&ssid=w5syan9iww0000001664560757242&qH=e8761f7c2760a617",
+		"download-link": "https://www.junkybooks.com/administrator/thebooks/63274a81d992b-who-will-cry-when-you-die.pdf"
 	},
-	{
-		"id": 31,
-		"number-pages": 300,
-		"name": "Wilder Girls",
-		"author": "Rory Power",
-		"publishing-year": "2019",
-		"publisher": "penguin",
-		"shopping-link": "https://amazon.in/dp/B07MTNBT52?ref=KC_GS_GB_IN",
-		"download-link": "https://amazon.in/dp/B07MTNBT52?ref=KC_GS_GB_IN"
-	}
 ]
