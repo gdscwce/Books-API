@@ -501,5 +501,15 @@
         "publisher": "Jonathan Cape ",
         "shopping-link": "https://www.amazon.in/Midnights-Children-Modern-Library-Novels/dp/0812976533",
         "download-link": "http://www.e4thai.com/e4e/images/pdf2/Top100novels/MidnightsChildren.pdf"
+    },
+    {
+        "id": 52,
+        "name": "The Famous Five",
+        "number-pages": 458,
+        "author": "Enid Blyton",
+        "publishing-year": "1942",
+        "publisher": "Blyton",
+        "shopping-link": "https://www.amazon.com/famous-five-Enid-Blyton/dp/2830202848",
+        "download-link": "https://booksvooks.com/series/the-famous-five/"
     }
 ]
