@@ -55,4 +55,14 @@
 		"shopping-link": "https://www.amazon.com/Isle-Dead-Ships-Crittenden-MARRIOTT/dp/B000HX1MBG",
 		"download-link": "https://www.gutenberg.org/ebooks/69065"
 	}
+	{
+		"id": 7,
+		"number-pages": 285,
+		"name":"To Kill a MockingBird",
+		"author": "Harper Lee",
+		"publishing-year": "1960",
+		"publisher": "Lippincott Company, 1909",
+		"shopping-link": "https://www.amazon.com/Kill-Mockingbird-Harper-Lee/dp/0060935464/?tag=readerwp-20",
+		"download-link": "https://www.raio.org/TKMFullText.pdf"
+	}
 ]
