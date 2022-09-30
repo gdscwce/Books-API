@@ -1524,7 +1524,16 @@
 		"download-link": "https://www.pdfread.net/ebook/do-epic-shit-ankur-warikoo/"
 	},
 	{
-		"id": 33,
+		"id": 25,
+		"number-pages": 198,
+		"name": "The Monk Who Sold His Ferrari",
+		"author": "Robin Sharma",
+		"publishing-year": "Robin Sharma",
+		"publisher": "Harper Collins Publishers",
+		"shopping-link": "https://www.flipkart.com/monk-sold-his-ferrari/p/itmfc7hkcke9bnyh?pid=9788179929667&lid=LSTBOK9788179929667VBPVKR&marketplace=FLIPKART&cmpid=content_book_8965229628_gmc",
+		"download-link": "https://www.pdfdrive.com/the-monk-who-sold-his-ferraripdf-books-khgeduvn-e6752402.html"
+  },
+{    "id": 33,
 		"number-pages": 300,
 		"name": "Wilder Girls",
 		"author": "Rory Power",
@@ -2108,7 +2117,7 @@
 		"publisher": "George Allen & Unwin",
 		"shopping-link": "https://www.google.co.in/books/edition/The_Hobbit/CixXEAAAQBAJ?hl=en",
 		"download-link": "https://www.pdfdrive.com/the-hobbit-e17592270.html"
-	}
+	},
 	
 	{
 		"id": 33,
@@ -2117,6 +2126,6 @@
 		"author": "Ranjit Desai,Vikram pande",
 		"publishing-year": "20 December 2017",
 		"publisher": "penguin",
-		"shopping-link": "https://www.amazon.in/Shivaji-Great-Maratha-Ranjit-Desai/dp/9352774396",
+		"shopping-link": "https://www.amazon.in/Shivaji-Great-Maratha-Ranjit-Desai/dp/9352774396"
 	}
 ]
