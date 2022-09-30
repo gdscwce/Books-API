@@ -298,5 +298,15 @@
 		"publisher": "penguin",
 		"shopping-link": "https://amazon.in/dp/B07MTNBT52?ref=KC_GS_GB_IN",
 		"download-link": "https://amazon.in/dp/B07MTNBT52?ref=KC_GS_GB_IN"
+	},
+	{
+		"id": 35,
+		"number-pages": 256,
+		"name": "Atomic Habits",
+		"author": "James Clear",
+		"publishing-year": "2018",
+		"publisher": "PenguinRandomHouse",
+		"shopping-link": "https://www.flipkart.com/atomic-habbits/p/itm3aa43c4b705d3?pid=RBKGGP7BZZWRFQDK&lid=LSTRBKGGP7BZZWRFQDKQTA0SI&marketplace=FLIPKART&cmpid=content_regionalbooks_18440873650_u_8965229628_gmc_pla&tgi=sem,1,G,11214002,u,,,624398499082,,,,c,,,,,,,",
+		"download-link": "https://www.opportunitiesforyouth.org/wp-content/uploads/2021/04/Atomic_Habits_by_James_Clear-1.pdf"
 	}
 ]
