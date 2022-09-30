@@ -480,5 +480,14 @@
         "publisher": "Basic Books; Reprint edition ",
         "shopping-link": "https://en.wikipedia.org/wiki/Diary_of_a_Wimpy_Kid",
         "download-link": "https://wimpykid.com/"
-    }
+    },
+    {
+        "id": 51,
+        "name": "I am Malala: The Story of the Girl Who Stood Up for Education",
+        "number-pages": 195,
+        "author": "Malala yousufzai",
+        "publishing-year": "2013",
+        "shopping-link": "https://www.amazon.in/Am-Malala-Stood-Education-Taliban/dp/0316322407",
+        "download-link": "https://www.pdfdrive.com/i-am-malala-the-story-of-the-girl-who-stood-up-for-education-e14796117.html"
+      }
 ]
