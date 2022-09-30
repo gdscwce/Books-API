@@ -2049,5 +2049,14 @@
 		"publisher": "Basic Books; Reprint edition ",
 		"shopping-link": "https://www.amazon.in/White-Tiger-Novel-Booker-Prize/dp/1416562605",
 		"download-link": "https://www.amazon.in/White-Tiger-Novel-Booker-Prize/dp/1416562605"
+	},
+	{
+		"id": 76,
+		"name": "Algorithms to Live By: The Computer Science of Human Decisions",
+		"number-pages": 376,
+		"author": "Brian Christian",
+		"publishing-year": "2016",
+		"shopping-link": "https://www.amazon.com/Algorithms-to-Live-By-audiobook/dp/B01D24NAL6",
+		"download-link": "https://www.pdfdrive.com/algorithms-to-live-by-the-computer-science-of-human-decisions-e33410583.html"
 	}
 ]
