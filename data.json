@@ -480,5 +480,15 @@
         "publisher": "Basic Books; Reprint edition ",
         "shopping-link": "https://en.wikipedia.org/wiki/Diary_of_a_Wimpy_Kid",
         "download-link": "https://wimpykid.com/"
+    },
+    {
+        "id": 14,
+        "number-pages": 671,
+        "name": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "publishing-year": "1866",
+        "publisher": "Penguin Classics",
+        "shopping-link": "https://www.amazon.in/Punishment-Penguin-Classics-Fyodor-Dostoyevsky/dp/0140449132",
+        "download-link": "https://www.planetebook.com/crime-and-punishment/"
     }
 ]
