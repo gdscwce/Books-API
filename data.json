@@ -298,5 +298,15 @@
 		"publisher": "penguin",
 		"shopping-link": "https://amazon.in/dp/B07MTNBT52?ref=KC_GS_GB_IN",
 		"download-link": "https://amazon.in/dp/B07MTNBT52?ref=KC_GS_GB_IN"
+	},
+	{
+		"id": 32,
+		"number-pages": 318,
+		"name": "Ikigai",
+		"author": "Hector Garcia, Francesc Miralles",
+		"publishing-year": "2016",
+		"publisher": "penguin",
+		"shopping-link": "https://amazon.in/dp/B07MTNBT52?ref=KC_GS_GB_IN",
+		"download-link": "https://amazon.in/dp/B07MTNBT52?ref=KC_GS_GB_IN"
 	}
 ]
