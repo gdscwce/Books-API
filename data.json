@@ -299,4 +299,14 @@
 		"shopping-link": "https://amazon.in/dp/B07MTNBT52?ref=KC_GS_GB_IN",
 		"download-link": "https://amazon.in/dp/B07MTNBT52?ref=KC_GS_GB_IN"
 	}
+	
+	{
+		"id": 33,
+		"number-pages": 592,
+		"name": "Shivaji:The Great Maratha",
+		"author": "Ranjit Desai,Vikram pande",
+		"publishing-year": "20 December 2017",
+		"publisher": "penguin",
+		"shopping-link": "https://www.amazon.in/Shivaji-Great-Maratha-Ranjit-Desai/dp/9352774396",
+	}
 ]
