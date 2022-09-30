@@ -1964,3 +1964,73 @@
 		"shopping-link": "https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692",
 		"download-link": "https://www.pdfdrive.com/deep-work-cal-newport-e33410582.html"
 
+	},
+	{
+		"id": 66,
+		"name": "mein kampf",
+		"number-pages": 2000,
+		"author": "adolf Hitler",
+		"publishing-year": "1925",
+		"shopping-link": "https://www.google.com/search?q=mein+kampf&sxsrf=ALiCzsalRrqu0qkJkfgwU1h-K9ESDgOdww:1664567684092&source=lnms&tbm=shop&sa=X&ved=2ahUKEwj7847spb36AhVOSmwGHTmSCYsQ_AUoAXoECAEQAw&biw=767&bih=704&dpr=1.25",
+		"download-link": "https://greatwar.nl/books/meinkampf/meinkampf.pdf"
+	},
+	{
+		"id": 67,
+		"number-pages": 152,
+		"name": "The Subtle Art of Not Giving a F*ck",
+		"author": "Mark Manson",
+		"publishing-year": "2016",
+		"publisher": "Enslow Publishing",
+		"shopping-link": "https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713",
+		"download-link": "https://www.pdfdrive.com/the-subtle-art-of-not-giving-a-fuck-by-mark-manson-e200835181.html"
+	},
+	{
+		"id": 68,
+		"number-pages": 381,
+		"name": "Norwegian Woods",
+		"author": "Haruki Murakami",
+		"publishing-year": "1987",
+		"publisher": "Kodansha",
+		"shopping-link": "https://www.amazon.in/Norwegian-Wood-Haruki-Murakami/dp/0099448823",
+	},
+	{
+		"id": 69,
+		"number-pages": 336,
+		"name": "The 5 AM Club",
+		"author": "Robin Sharma",
+		"publishing-year": "2018",
+		"publisher": " Jaico Publishing House",
+		"shopping-link": "https://www.amazon.in/AM-Club-Your-Morning-Elevate/dp/9387944891/ref=sr_1_3?keywords=the+5+am+club&qid=1664566452&qu=eyJxc2MiOiIxLjUzIiwicXNhIjoiMS4xMSIsInFzcCI6IjAuOTcifQ%3D%3D&sprefix=the+5+am%2Caps%2C276&sr=8-3",
+		"download-link": "https://www.pdfnotes.co/the-5am-club/"
+	},
+	{
+		"id": 70,
+		"number-pages": 592,
+		"name": "Automate the Boring Stuff with Python",
+		"author": "Al Sweigart",
+		"publishing-year": "2017",
+		"publisher": "Enslow Publishing",
+		"shopping-link": "https://www.amazon.com/Automate-Boring-Stuff-Python-Programming/dp/1593275994",
+		"download-link": "https://automatetheboringstuff.com"
+	},
+	{
+		"id": 71,
+		"name": "Rich Dad Poor Dad",
+		"number-pages": 243,
+		"author": "Robert Kiyosaki",
+		"publishing-year": "2000",
+		"shopping-link": "https://www.amazon.in/Rich-Dad-Poor-Middle-Updates/dp/1612680194",
+		"download-link": "https://www.pdfdrive.com/rich-dad-poor-dad-e136494023.html"
+	},
+	{
+		"id": 72,
+		"name": "The Famous Five",
+		"number-pages": 458,
+		"author": "Enid Blyton",
+		"publishing-year": "1942",
+		"publisher": "Blyton",
+		"shopping-link": "https://www.amazon.com/famous-five-Enid-Blyton/dp/2830202848",
+		"download-link": "https://booksvooks.com/series/the-famous-five/"
+	}
+]
+
