@@ -1953,5 +1953,14 @@
 		"publishing-year": "2016",
 		"shopping-link": "https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692",
 		"download-link": "https://www.pdfdrive.com/deep-work-cal-newport-e33410582.html"
-	}
+	},
+	{
+		"id": 66,
+		"name": "mein kampf",
+		"number-pages": 2000,
+		"author": "adolf Hitler",
+		"publishing-year": "1925",
+		"shopping-link": "https://www.google.com/search?q=mein+kampf&sxsrf=ALiCzsalRrqu0qkJkfgwU1h-K9ESDgOdww:1664567684092&source=lnms&tbm=shop&sa=X&ved=2ahUKEwj7847spb36AhVOSmwGHTmSCYsQ_AUoAXoECAEQAw&biw=767&bih=704&dpr=1.25",
+		"download-link": "https://greatwar.nl/books/meinkampf/meinkampf.pdf"
+	},
 ]
