@@ -353,7 +353,7 @@
         "id": 37,
         "name": "Wings of Fire",
         "number-pages": 180,
-        "author": "	A P J Abdul Kalam",
+        "author": "A P J Abdul Kalam",
         "publishing-year": "1999",
         "shopping-link": "https://www.amazon.in/Wings-Fire-Autobiography-Abdul-Kalam/dp/8173711461",
         "download-link": "https://ati.dae.gov.in/ati12052021_8.pdf"
@@ -392,7 +392,7 @@
         "id": 41,
         "name": "The Great Gatsby",
         "number-pages": 200,
-        "author": "	F. Scott Fitzgerald",
+        "author": "F. Scott Fitzgerald",
         "publishing-year": "1925",
         "shopping-link": "https://www.amazon.in/Gatsby-Fitzgerald-Hardcover-International-Bestseller/dp/9391626351/ref=asc_df_9391626351/?tag=googleshopdes-21&linkCode=df0&hvadid=586385285702&hvpos=&hvnetw=g&hvrand=67477073752252646&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007786&hvtargid=pla-1653658130611&psc=1",
         "download-link": "https://www.google.com/search?q=The+Great+Gatsby+download&client=ubuntu&hs=iw3&sa=X&channel=fs&biw=1538&bih=783&tbm=shop&ei=yzI3Y8ffBprn4-EPsqme8AI&ved=0ahUKEwiH8a6WkL36AhWa8zgGHbKUBy4Q4dUDCAU&uact=5&oq=The+Great+Gatsby+download&gs_lcp=Cgtwcm9kdWN0cy1jYxADMggIABAeEBYQGDoHCAAQsAMQQzoICAAQgAQQsAM6BAgAEEM6BQgAEIAEOgQIABAYSgQIQRgBUJ0EWI0bYNUcaAZwAHgAgAHQAYgB0xWSAQUwLjYuOJgBAKABAcgBCsABAQ&sclient=products-cc"
@@ -403,8 +403,7 @@
         "name": "The Private Life of an Indian Prince ",
         "author": "Mulk Raj Anand",
         "publishing-year": "1953",
-        "publisher": "HarperCollins Publishers Indiaमराठी मध्येIn English",
-        "shopping-link": "https: //www.amazon.in/Private-Life-Indian-Prince-Pb/dp/817223760X",
+        "publisher": "HarperCollins Publishers India",
         "download-link": "https://www.amazon.in/Private-Life-Indian-Prince-Pb/dp/817223760X"
     },
     {
@@ -454,16 +453,6 @@
         "download-link": "https://archive.org/download/atomic-habits_202104/Atomic%20Habits.pdf"
     },
     {
-        "id": 60,
-        "number-pages": 206,
-        "name": "The Secret",
-        "author": "Rhonda Byrne",
-        "publishing-year": "2006",
-        "publisher": "Atria Books",
-        "shopping-link": "https://www.amazon.in/Secret-Rhonda-Byrne/dp/1847370292/ref=sr_1_2?crid=15KC3MPGJPDWR&keywords=the+secret+book+english&qid=1664564305&qu=eyJxc2MiOiIzLjQzIiwicXNhIjoiMy41NiIsInFzcCI6IjMuMDUifQ%3D%3D&sprefix=the+secret+%2Caps%2C633&sr=8-2",
-        "download-link": "https://addictbooks.com/the-secret-book-pdf-free-download-rhonda-byrne/"
-     },
-
         "id": 48,
         "name": "Curious: The Desire to Know and Why Your Future Depends on It",
         "number-pages": 178,
@@ -493,13 +482,12 @@
         "download-link": "https://wimpykid.com/"
     },
     {
-        "id": 51,
-        "name": "Ikigai: The Japanese Secret to a Long and Happy Life",
-        "number-pages": 208,
-        "author": "Héctor García, Francesc Miralles",
-        "publishing-year": "2017",
-        "publisher": "Penguin Life",
-        "shopping-link": "https://www.amazon.com/Ikigai-Japanese-Secret-Long-Happy/dp/0143130722",
-        "download-link": "https://www.sarkarirush.com/ikigai-pdf/"
-    }
+      "id": 51,
+        "name": "The White Tiger",
+        "number-pages": 512,
+        "author": "ARAVIND ADIGA",
+        "publishing-year": "2008",
+        "publisher": "Basic Books; Reprint edition ",
+        "shopping-link": "https://www.amazon.in/White-Tiger-Novel-Booker-Prize/dp/1416562605",
+        "download-link": "https://www.amazon.in/White-Tiger-Novel-Booker-Prize/dp/1416562605"  
 ]
