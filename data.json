@@ -2002,4 +2002,13 @@
 		"shopping-link": "https://www.amazon.com/Automate-Boring-Stuff-Python-Programming/dp/1593275994",
 		"download-link": "https://automatetheboringstuff.com"
 	}
+	{
+		"id": 66,
+		"name": "Rich Dad Poor Dad",
+		"number-pages": 243,
+		"author": "Robert Kiyosaki",
+		"publishing-year": "2000",
+		"shopping-link": "https://www.amazon.in/Rich-Dad-Poor-Middle-Updates/dp/1612680194",
+		"download-link": "https://www.pdfdrive.com/rich-dad-poor-dad-e136494023.html"
+	}
 ]
