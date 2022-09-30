@@ -2109,4 +2109,14 @@
 		"shopping-link": "https://www.google.co.in/books/edition/The_Hobbit/CixXEAAAQBAJ?hl=en",
 		"download-link": "https://www.pdfdrive.com/the-hobbit-e17592270.html"
 	}
+	
+	{
+		"id": 33,
+		"number-pages": 592,
+		"name": "Shivaji:The Great Maratha",
+		"author": "Ranjit Desai,Vikram pande",
+		"publishing-year": "20 December 2017",
+		"publisher": "penguin",
+		"shopping-link": "https://www.amazon.in/Shivaji-Great-Maratha-Ranjit-Desai/dp/9352774396",
+	}
 ]
