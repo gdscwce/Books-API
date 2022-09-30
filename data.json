@@ -397,15 +397,14 @@
         "shopping-link": "https://www.amazon.in/Gatsby-Fitzgerald-Hardcover-International-Bestseller/dp/9391626351/ref=asc_df_9391626351/?tag=googleshopdes-21&linkCode=df0&hvadid=586385285702&hvpos=&hvnetw=g&hvrand=67477073752252646&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007786&hvtargid=pla-1653658130611&psc=1",
         "download-link": "https://www.google.com/search?q=The+Great+Gatsby+download&client=ubuntu&hs=iw3&sa=X&channel=fs&biw=1538&bih=783&tbm=shop&ei=yzI3Y8ffBprn4-EPsqme8AI&ved=0ahUKEwiH8a6WkL36AhWa8zgGHbKUBy4Q4dUDCAU&uact=5&oq=The+Great+Gatsby+download&gs_lcp=Cgtwcm9kdWN0cy1jYxADMggIABAeEBYQGDoHCAAQsAMQQzoICAAQgAQQsAM6BAgAEEM6BQgAEIAEOgQIABAYSgQIQRgBUJ0EWI0bYNUcaAZwAHgAgAHQAYgB0xWSAQUwLjYuOJgBAKABAcgBCsABAQ&sclient=products-cc"
     },
-    {
-        "id": 42,
-        "number-pages": 1055,
-        "name": "The Private Life of an Indian Prince ",
-        "author": "Mulk Raj Anand",
-        "publishing-year": "1953",
-        "publisher": "HarperCollins Publishers India
-मराठी मध्ये
-In English","shopping-link": "https://www.amazon.in/Private-Life-Indian-Prince-Pb/dp/817223760X",
-        "download-link": "https://www.amazon.in/Private-Life-Indian-Prince-Pb/dp/817223760X"
-    }
+    
+      {
+        "id": 45,
+        "name": "Bharat ki Khoj",
+        "number-pages": 200,
+        "author": "	jawhaharlal nehru",
+        "publishing-year": "1925",
+        "shopping-link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjOiqjekr36AhWWDisKHf8VD-gYABABGgJzZg&sig=AOD64_1EGSHzFoOkD62TQQNyhKl08PxArw&ctype=5&q=&ved=0ahUKEwjc4aPekr36AhUXcWwGHcxuAWAQww8Iwgc&adurl=",
+        "download-link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjOiqjekr36AhWWDisKHf8VD-gYABABGgJzZg&sig=AOD64_1EGSHzFoOkD62TQQNyhKl08PxArw&ctype=5&q=&ved=0ahUKEwjc4aPekr36AhUXcWwGHcxuAWAQww8Iwgc&adurl=bvf"
+    },
 ]
