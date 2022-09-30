@@ -1,4 +1,433 @@
 [
+ 
+  {
+    "id": 1,
+    "number-pages": 265,
+    "name": "Isle of Dead Ships",
+    "author": "Crittenden Marriott",
+    "publishing-year": "1925",
+    "publisher": "Lippincott Company, 1909",
+    "shopping-link": "https://www.amazon.com/Isle-Dead-Ships-Crittenden-MARRIOTT/dp/B000HX1MBG",
+    "download-link": "https://www.gutenberg.org/ebooks/69065"
+  },
+  {
+    "id": 2,
+    "name": "Deep Work",
+    "number-pages": 290,
+    "author": "Carl Newport",
+    "publishing-year": "2016",
+    "shopping-link": "https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692",
+    "download-link": "https://www.pdfdrive.com/deep-work-cal-newport-e33410582.html"
+  },
+  {
+    "id": 3,
+    "name": "Practicing Mind",
+    "number-pages": 98,
+    "author": "Tom Sterner",
+    "publishing-year": "2006",
+    "shopping-link": "https://www.amazon.in/Practicing-Mind-Developing-Discipline-Challenge/dp/1608680908",
+    "download-link": "https://pdflake.com/the-practicing-mind-pdf-book/"
+  },
+  {
+    "id": 4,
+    "name": "Practicing Mind",
+    "number-pages": 90,
+    "author": "me",
+    "publishing-year": "2022",
+    "shopping-link": "https://www.amazon.in/Practicing-Mind-Developing-Discipline-Challenge/dp/1608680908",
+    "download-link": "https://pdflake.com/the-practicing-mind-pdf-book/"
+  },
+  {
+    "id": 5,
+    "number-pages": 200,
+    "name": "Who moved my cheeses",
+    "author": "Where is my Cheese",
+    "publishing-year": "2004",
+    "shopping-link": "https://www.amazon.in/Who-Moved-Cheese-Spencer-Johnson/dp/0091883768#:~:text=Who%20Moved%20My%20Cheese%3F%20is,them%20and%20make%20them%20happy",
+    "download-link": "https://en.wikipedia.org/wiki/Who_Moved_My_Cheese%3F"
+  },
+  {
+    "id": 6,
+    "number-pages": 99,
+    "name": "Isel of Dead Ships",
+    "author": "mr agent",
+    "publishing-year": "2003",
+    "publisher": "Lippincott Company, 1909",
+    "shopping-link": "https://www.amazon.com/Isle-Dead-Ships-Crittenden-MARRIOTT/dp/B000HX1MBG",
+    "download-link": "https://www.gutenberg.org/ebooks/69065"
+  },
+  {
+    "id": 7,
+    "name": "Who moved my cheeses",
+    "number-pages": 200,
+    "author": "Where is my Cheese",
+    "publishing-year": "2004",
+    "shopping-link": "https://www.amazon.in/Who-Moved-Cheese-Spencer-Johnson/dp/0091883768#:~:text=Who%20Moved%20My%20Cheese%3F%20is,them%20and%20make%20them%20happy.",
+    "download-link": "https://en.wikipedia.org/wiki/Who_Moved_My_Cheese%3F"
+  },
+  {
+    "id": 8,
+    "number-pages": 180,
+    "author": "A P J Abdul Kalam, Arun Tiwari",
+    "publishing-year": "1999",
+    "publisher": "Universities Press",
+    "shopping-link": "https://www.amazon.in/Wings-Fire-Autobiography-Abdul-Kalam/dp/8173711461",
+    "download-link": "https://indianpdf.com/wings-of-fire-book-pdf/"
+  },
+  {
+    "id": 9,
+    "name": "Practicing ",
+    "number-pages": 199,
+    "author": "Tom Sterner",
+    "publishing-year": "2000",
+    "shopping-link": "https://www.amazon.in/Practicing-Mind-Developing-Discipline-Challenge",
+    "download-link": "https://pdflake.com/the-practicing-mind-pdf-book/"
+  },
+  {
+    "id": 10,
+    "name": "Alchemist ",
+    "number-pages": 163,
+    "author": "Paulo Coelho",
+    "publishing-year": "1988",
+    "shopping-link": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjRiuzW2rz6AhXg9jgGHS1OBzIQFnoECBEQAQ&url=https%3A%2F%2Fwww.amazon.in%2FAlchemist-Paulo-Coelho%2Fdp%2F8172234988&usg=AOvVaw014qU5igpIZgMIRO_Dm9yp",
+    "download-link": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiGj9To2rz6AhXswzgGHTeJAKgQFnoECAoQAQ&url=https%3A%2F%2Fpdflake.com%2Fthe-alchemist-pdf-book-in-english-by-paulo-coelho%2F&usg=AOvVaw2NBK6tr3MIpDiYoAT2aWaF"
+  },
+  {
+    "id": 11,
+    "number-pages": 265,
+    "name": "Boundaries: When to Say Yes, How to Say No to Take Control of Your Life",
+    "author": "Henry Cloud",
+    "publishing-year": "2001",
+    "publisher": "John Townsend",
+    "shopping-link": "https://www.amazon.in/Boundaries-Updated-Expanded-When-Control/dp/0310247454",
+    "download-link": "https://www.pdfdrive.com/boundaries-when-to-say-yes-how-to-say-no-to-take-control-of-your-life-e60363043.html"
+  },
+  {
+    "id": 12,
+    "number-pages": 258,
+    "name": "Living in the Light: A guide to personal transformation",
+    "author": "Shakti Gawain, Laurel King",
+    "publishing-year": "2011",
+    "publisher": "Nataraj Pub., 1992",
+    "shopping-link": "https://www.amazon.in/Living-Light-Personal-Planetary-Transformation/dp/1442950277",
+    "download-link": "https://www.pdfdrive.com/living-in-the-light-a-guide-to-personal-transformation-e10172273.html"
+  },
+  {
+    "id": 13,
+    "number-pages": 2789,
+    "name": "Living in the Light: A guide to transformation",
+    "author": "Gawain, Laurel King",
+    "publishing-year": "2001",
+    "publisher": "Nataraj hub., 1992",
+    "shopping-link": "https://www.amazon.in/Living-Light-Personal-Planetary-Transformation/dp/14429504587",
+    "download-link": "https://www.pdfdrive.com/living-in-the-light-a-guide-to-personal-transformation-e10172783.html"
+  },
+  {
+    "id": 14,
+    "number-pages": 671,
+    "name": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "publishing-year": "1866",
+    "publisher": "Penguin Classics",
+    "shopping-link": "https://www.amazon.in/Punishment-Penguin-Classics-Fyodor-Dostoyevsky/dp/0140449132",
+    "download-link": "https://www.planetebook.com/crime-and-punishment/"
+  },
+  {
+    "id": 15,
+    "number-pages": 265,
+    "name": "Theory of Relativity",
+    "author": "Albert Einstein",
+    "publishing-year": "1944",
+    "publisher": "Lippin Company, 1909",
+    "shopping-link": "https://www.amazon.com/General-Theory/dp/B000HX1MBG",
+    "download-link": "https://www.gutenberg.org/ebooks/6906500"
+  },
+  {
+    "id": 16,
+    "number-pages": 240,
+    "name": "2 states",
+    "author": "chetan bhagat",
+    "publishing-year": "2009",
+    "publisher": "Rupa Pub.",
+    "shopping-link": "https://www.amazon.in/2-States-Story-My-Marriage/dp/8129135523",
+    "download-link": "https://instapdf.in/two-states-by-chetan-bhagat/"
+  },
+  {
+    "id": 17,
+    "number-pages": 224,
+    "name": "The Subtle Art of Not Giving a Fuck",
+    "author": "Mark Manson",
+    "publishing-year": "2016",
+    "publisher": "HarperOne",
+    "shopping-link": "https://www.amazon.in/Subtle-Art-Not-Giving/dp/0062641549",
+    "download-link": "https://kupdf.net/download/the-subtle-art-of-not-giving-a-fuck_5aa1883fe2b6f5eb1b65a859_pdf"
+  },
+  {
+    "id": 18,
+    "number-pages": 245,
+    "name": "4 states",
+    "author": "chetan kashid",
+    "publishing-year": "2010",
+    "publisher": "pika publi.",
+    "shopping-link": "https://www.amazon.in/2-States-Story-My-Marriage/dp/8129135523",
+    "download-link": "https://instapdf.in/two-states-by-chetan-bhagat/"
+  },
+  {
+    "id": 19,
+    "number-pages": 224,
+    "name": "The Monk Who Sold His Ferrari",
+    "author": "Robin Sharma",
+    "publishing-year": "1999",
+    "publisher": "HarperOne",
+    "shopping-link": "https://www.amazon.in/Monk-Who-Sold-His-Ferrari/dp/0062515675",
+    "download-link": "https://www.dropbox.com/s/faqnsiqjwb41uwp/%E0%A4%B8%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8%E0%A5%80%20The%20Monk%20Who%20Sold%20His%20Ferrari%20Hindi%20LifeFeeling.pdf?dl=1"
+  },
+  {
+    "id": 20,
+    "number-pages": 376,
+    "name": "It Ends with Us",
+    "author": "Colleen Hoover",
+    "publishing-year": "1999",
+    "publisher": "Simon & Schuster",
+    "shopping-link": "https://www.flipkart.com/it-ends-with-us/p/itm828ef1132dbdb?pid=RBKGBJUFVHWYGTK3&lid=LSTRBKGBJUFVHWYGTK3CNCPYD&marketplace=FLIPKART&cmpid=content_regionalbooks_18440873650_u_8965229628_gmc_pla&tgi=sem,1,G,11214002,u,,,624398499082,,,,c,,,,,,,",
+    "download-link": "https://ia804608.us.archive.org/23/items/juhy_20220104/It%20Ends%20with%20Us%20by%20Colleen%20Hoover%20%28z-lib.org%29.epub.pdf"
+  },
+  {
+    "id": 21,
+    "number-pages": 220,
+    "name": "rich dad poor dad",
+    "author": "Robert Kiyosaki",
+    "publishing-year": "2021",
+    "publisher": "Warner Books",
+    "shopping-link": "https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680194",
+    "download-link": "https://www.pdfdrive.com/rich-dad-poor-dad-e136494023.html"
+  },
+  {
+    "id": 22,
+    "number-pages": 200,
+    "name": "Who moved my cheeses",
+    "author": "Where is my Cheese",
+    "publishing-year": "2004",
+    "shopping-link": "https://www.amazon.in/Who-Moved-Cheese-Spencer-Johnson/dp/0091883768#:~:text=Who%20Moved%20My%20Cheese%3F%20is,them%20and%20make%20them%20happy",
+    "download-link": "https://en.wikipedia.org/wiki/Who_Moved_My_Cheese%3F"
+  },
+  {
+    "id": 23,
+    "number-pages": 327,
+    "name": "I am malala",
+    "author": "Malala Yousafzai",
+    "publishing-year": "2013",
+    "publisher": "Weidenfeld & Nicolson (UK) Little, Brown and Company (US)",
+    "shopping-link": "https://www.amazon.in/Am-Malala-Stood-Education-Taliban/dp/1780226586/ref=asc_df_1780226586/?tag=googleshopdes-21&linkCode=df0&hvadid=397083491927&hvpos=&hvnetw=g&hvrand=17077502091211482814&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007789&hvtargid=pla-369816643388&psc=1&ext_vrnc=hi",
+    "download-link": "https://www.booksfree.org/i-am-malala-pdf-free-download-a/"
+  },
+  {
+    "id": 24,
+    "number-pages": 575,
+    "name": "Bhagwat Geeta",
+    "author": "prabhipada",
+    "publishing-year": "1968",
+    "publisher": "BhaktiVedanta bok trust",
+    "shopping-link": "https://www.flipkart.com/bhagavad-gita-as-it-is/p/itmezunqsqzycegq",
+    "download-link": "https://www.flipkart.com/bhagavad-gita-as-it-is/p/itmezunqsqzycegq"
+  },
+  {
+    "id": 25,
+    "number-pages": 646,
+    "name": "It Ends With Us",
+    "author": "Colleen Hoover",
+    "publishing-year": "2016",
+    "publisher": "Atria Books",
+    "shopping-link": "https://www.amazon.in/s?k=it+ends+with+us+novel&hvadid=73117601034628&hvbmt=bb&hvdev=c&hvqmt=b&tag=msndeskstdin-21&ref=pd_sl_6jzircqp9p_b",
+    "download-link": "https://docer.tips/it-ends-with-us-colleen-hoover-eng-pdf.html"
+  },
+  {
+    "id": 26,
+    "number-pages": 265,
+    "name": "Alchemist",
+    "author": "Panlo coelho",
+    "publishing-year": "1998",
+    "publisher": "Lippincott Company, 1909",
+    "shopping-link": "https://www.amazon.com/Isle-Dead-Ships-Crittenden-MARRIOTT/dp/B000HX1MBG",
+    "download-link": "https://www.gutenberg.org/ebooks/69065"
+  },
+  {
+    "id": 27,
+    "number-pages": 245,
+    "name": "War and Peace",
+    "author": "Leo Tolstoy",
+    "publishing-year": "1865",
+    "publisher": "The Russian Messenger",
+    "shopping-link": "https://www.amazon.in/War-Peace-Leo-Tolstoy/dp/8175992832",
+    "download-link": "https://www.planetebook.com/war-and-peace/"
+  },
+  {
+    "id": 28,
+    "number-pages": 575,
+    "name": "Bhagwat Geeta",
+    "author": "prabhipada",
+    "publishing-year": "1968",
+    "publisher": "BhaktiVedanta bok trust",
+    "shopping-link": "https://www.flipkart.com/bhagavad-gita-as-it-is/p/itmezunqsqzycegq",
+    "download-link": "https://www.flipkart.com/bhagavad-gita-as-it-is/p/itmezunqsqzycegq"
+  },
+  {
+    "id": 29,
+    "number-pages": 384,
+    "name": "The love hypothesis",
+    "author": "Ali Hazelwood",
+    "publishing-year": "2021",
+    "shopping-link": "https://www.flipkart.com/love-hypothesis-tiktok-made-me-buy-it-romcom-year-paperback-21-october-2021-ali-hazelwood-author/p/itmc47ffc15d6d82?pid=RBKGDN8VNVZPXEQH&lid=LSTRBKGDN8VNVZPXEQHNS0R2R&marketplace=FLIPKART&cmpid=content_regionalbooks_18440873650_u_8965229628_gmc_pla&tgi=sem,1,G,11214002,u,,,624398499082,,,,c,,,,,,,&gclid=CjwKCAjwp9qZBhBkEiwAsYFsb4aPEAKyZvdyJjV6KnJ_ClFwheghTXyy1Aiuvwrri2D0lP4MQjGs6BoCsf4QAvD_BwE",
+    "download-link": "https://www.ysk-books.com/en/show/book/the-love-hypothesis-pdf"
+  },
+  {
+    "id": 30,
+    "number-pages": 228,
+    "name": "The Monk Who Sold His Ferrari",
+    "author": "Robin Sharma",
+    "publishing-year": "1996",
+    "publisher": "Harper Collins Publishers",
+    "shopping-link": "https://www.amazon.in/Monk-Who-Sold-His-Ferrari/dp/0062515675",
+    "download-link": "https://www.apnamba.com/Ebooks-pdf/The%20Monk%20who%20sold%20his%20ferrari%20-%20Robin%20Sharma%20(PDF)%20%5BQwerty80%5D.pdf"
+  },
+  {
+    "id": 31,
+    "number-pages": 575,
+    "name": "Bhagwat Geeta",
+    "author": "prabhipada",
+    "publishing-year": "1968",
+    "publisher": "BhaktiVedanta bok trust",
+    "shopping-link": "https://www.flipkart.com/bhagavad-gita-as-it-is/p/itmezunqsqzycegq",
+    "download-link": "https://www.flipkart.com/bhagavad-gita-as-it-is/p/itmezunqsqzycegq"
+  },
+  {
+    "id": 32,
+    "number-pages": 312,
+    "name": "Do epic shit",
+    "author": "Warikoo Ankur",
+    "publishing-year": "2021",
+    "publisher": "Juggernaut ",
+    "shopping-link": "https://www.amazon.in/DO-EPIC-SHIT-Ankur-Warikoo/dp/9391165486",
+    "download-link": "https://www.pdfread.net/ebook/do-epic-shit-ankur-warikoo/"
+  },
+  {
+    "id": 33,
+    "number-pages": 300,
+    "name": "Wilder Girls",
+    "author": "Rory Power",
+    "publishing-year": "2019",
+    "publisher": "penguin",
+    "shopping-link": "https://amazon.in/dp/B07MTNBT52?ref=KC_GS_GB_IN",
+    "download-link": "https://amazon.in/dp/B07MTNBT52?ref=KC_GS_GB_IN"
+  },
+  {
+    "id": 34,
+    "number-pages": 575,
+    "name": "Bhagwat Geeta",
+    "author": "prabhipada",
+    "publishing-year": "1968",
+    "publisher": "BhaktiVedanta bok trust",
+    "shopping-link": "https://www.flipkart.com/bhagavad-gita-as-it-is/p/itmezunqsqzycegq",
+    "download-link": "https://www.flipkart.com/bhagavad-gita-as-it-is/p/itmezunqsqzycegq"
+  },
+  {
+    "id": 35,
+    "number-pages": 1055,
+    "name": "ramayan",
+    "author": "Valmiki",
+    "publishing-year": "1992",
+    "publisher": "geeta press",
+    "shopping-link": "https://www.amazon.in/gorakhpur-ramcharitmanas-Tulsidas-Ramcharitmanas-Hardcover/dp/B09BD6P7M3/ref=asc_df_B09BD6P7M3/?tag=googleshopdes-21&linkCode=df0&hvadid=545392427274&hvpos=&hvnetw=g&hvrand=12548556514743239659&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007789&hvtargid=pla-1541807510306&psc=1",
+    "download-link": "https://www.amazon.in/gorakhpur-ramcharitmanas-Tulsidas-Ramcharitmanas-Hardcover/dp/B09BD6P7M3/ref=asc_df_B09BD6P7M3/?tag=googleshopdes-21&linkCode=df0&hvadid=545392427274&hvpos=&hvnetw=g&hvrand=12548556514743239659&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007789&hvtargid=pla-1541807510306&psc=1"
+  },
+  {
+    "id": 36,
+    "number-pages": 265,
+    "name": "Rich Dad Poor Dad",
+    "author": "Robert T. Kiyosaki",
+    "publishing-year": "1997",
+    "publisher": "Warner Books",
+    "shopping-link": "www.flipkart.com/rich-dad-poor/p/itmfeesg9hzqqetb",
+    "download-link": "https://www.pdfdrive.com/rich-dad-poor-dad-e136494023.html"
+  },
+  {
+    "id": 37,
+    "name": "Wings of Fire",
+    "number-pages": 180,
+    "author": "A P J Abdul Kalam",
+    "publishing-year": "1999",
+    "shopping-link": "https://www.amazon.in/Wings-Fire-Autobiography-Abdul-Kalam/dp/8173711461",
+    "download-link": "https://ati.dae.gov.in/ati12052021_8.pdf"
+  },
+  {
+    "id": 38,
+    "number-pages": 736,
+    "name": "Ulysses",
+    "author": "James Joyce",
+    "publishing-year": "2010",
+    "publisher": "Wordsworth Editions Ltd; New Edition",
+    "shopping-link": "https://www.amazon.in/War-Peace-Leo-Tolstoy/dp/8175992832",
+    "download-link": "https://www.planetebook.com/ulysses/"
+  },
+  {
+    "id": 28,
+    "number-pages": 228,
+    "name": "The Monk Who Sold His Ferrari",
+    "author": "Robin Sharma",
+    "publishing-year": "1996",
+    "publisher": "Harper Collins Publishers",
+    "shopping-link": "https://www.amazon.in/Monk-Who-Sold-His-Ferrari/dp/0062515675",
+    "download-link": "https://www.apnamba.com/Ebooks-pdf/The%20Monk%20who%20sold%20his%20ferrari%20-%20Robin%20Sharma%20(PDF)%20%5BQwerty80%5D.pdf"
+  },
+  {
+    "id": 29,
+    "number-pages": 384,
+    "name": "The love hypothesis",
+    "author": "Ali Hazelwood",
+    "publishing-year": "2021",
+    "shopping-link": "https://www.flipkart.com/love-hypothesis-tiktok-made-me-buy-it-romcom-year-paperback-21-october-2021-ali-hazelwood-author/p/itmc47ffc15d6d82?pid=RBKGDN8VNVZPXEQH&lid=LSTRBKGDN8VNVZPXEQHNS0R2R&marketplace=FLIPKART&cmpid=content_regionalbooks_18440873650_u_8965229628_gmc_pla&tgi=sem,1,G,11214002,u,,,624398499082,,,,c,,,,,,,&gclid=CjwKCAjwp9qZBhBkEiwAsYFsb4aPEAKyZvdyJjV6KnJ_ClFwheghTXyy1Aiuvwrri2D0lP4MQjGs6BoCsf4QAvD_BwE",
+    "download-link": "https://www.ysk-books.com/en/show/book/the-love-hypothesis-pdf"
+  },
+  {
+    "id": 30,
+    "number-pages": 312,
+    "name": "Do epic shit",
+    "author": "Warikoo Ankur",
+    "publishing-year": "2021",
+    "publisher": "Juggernaut ",
+    "shopping-link": "https://www.amazon.in/DO-EPIC-SHIT-Ankur-Warikoo/dp/9391165486",
+    "download-link": "https://www.pdfread.net/ebook/do-epic-shit-ankur-warikoo/"
+  },
+  {
+    "id": 31,
+    "number-pages": 300,
+    "name": "Wilder Girls",
+    "author": "Rory Power",
+    "publishing-year": "2019",
+    "publisher": "penguin",
+    "shopping-link": "https://amazon.in/dp/B07MTNBT52?ref=KC_GS_GB_IN",
+    "download-link": "https://amazon.in/dp/B07MTNBT52?ref=KC_GS_GB_IN"
+  },
+  {
+    "id": 32,
+    "number-pages": 2789,
+    "name": "Living in the Light: A guide to transformation",
+    "author": "Gawain, Laurel King",
+    "publishing-year": "2001",
+    "publisher": "Nataraj hub., 1992",
+    "shopping-link": "https://www.amazon.in/Living-Light-Personal-Planetary-Transformation/dp/14429504587",
+    "download-link": "https://www.pdfdrive.com/living-in-the-light-a-guide-to-personal-transformation-e10172783.html"
+  },
+{      "id": 60,
+    "number-pages": 965,
+    "name": "Great Leaders: Inspirational Lessons in Leadership",
+    "author": "john adair",
+    "publishing-year": "2020",
+    "publisher": "Thorogood Publishing",
+    "shopping-link": "https://www.amazon.co.uk/Leadership-Six-Studies-World-Strategy",
+    "download-link": "https://www.gutenberg.org/ebooks/69065"
+  },
+
         {
           "id": 1,
           "number-pages": 265,
@@ -2457,8 +2886,8 @@
         "publisher": "Lippincott Company, 1909",
         "shopping-link": "https://www.amazon.com/Isle-Dead-Ships-Crittenden-MARRIOTT/dp/B000HX1MBG",
         "download-link": "https://www.gutenberg.org/ebooks/69065"
-      },
-      {
+    },
+    {
         "id": 2,
         "name": "Deep Work",
         "number-pages": 290,
@@ -2466,8 +2895,8 @@
         "publishing-year": "2016",
         "shopping-link": "https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692",
         "download-link": "https://www.pdfdrive.com/deep-work-cal-newport-e33410582.html"
-      },
-      {
+    },
+    {
         "id": 3,
         "name": "Practicing Mind",
         "number-pages": 98,
@@ -2475,8 +2904,8 @@
         "publishing-year": "2006",
         "shopping-link": "https://www.amazon.in/Practicing-Mind-Developing-Discipline-Challenge/dp/1608680908",
         "download-link": "https://pdflake.com/the-practicing-mind-pdf-book/"
-      },
-      {
+    },
+    {
         "id": 4,
         "name": "Practicing Mind",
         "number-pages": 90,
@@ -2484,8 +2913,8 @@
         "publishing-year": "2022",
         "shopping-link": "https://www.amazon.in/Practicing-Mind-Developing-Discipline-Challenge/dp/1608680908",
         "download-link": "https://pdflake.com/the-practicing-mind-pdf-book/"
-      },
-      {
+    },
+    {
         "id": 5,
         "number-pages": 200,
         "name": "Who moved my cheeses",
@@ -2493,8 +2922,8 @@
         "publishing-year": "2004",
         "shopping-link": "https://www.amazon.in/Who-Moved-Cheese-Spencer-Johnson/dp/0091883768#:~:text=Who%20Moved%20My%20Cheese%3F%20is,them%20and%20make%20them%20happy",
         "download-link": "https://en.wikipedia.org/wiki/Who_Moved_My_Cheese%3F"
-      },
-      {
+    },
+    {
         "id": 6,
         "number-pages": 99,
         "name": "Isel of Dead Ships",
@@ -2503,8 +2932,8 @@
         "publisher": "Lippincott Company, 1909",
         "shopping-link": "https://www.amazon.com/Isle-Dead-Ships-Crittenden-MARRIOTT/dp/B000HX1MBG",
         "download-link": "https://www.gutenberg.org/ebooks/69065"
-      },
-      {
+    },
+    {
         "id": 7,
         "name": "Who moved my cheeses",
         "number-pages": 200,
@@ -2512,8 +2941,8 @@
         "publishing-year": "2004",
         "shopping-link": "https://www.amazon.in/Who-Moved-Cheese-Spencer-Johnson/dp/0091883768#:~:text=Who%20Moved%20My%20Cheese%3F%20is,them%20and%20make%20them%20happy.",
         "download-link": "https://en.wikipedia.org/wiki/Who_Moved_My_Cheese%3F"
-      },
-      {
+    },
+    {
         "id": 8,
         "number-pages": 180,
         "author": "A P J Abdul Kalam, Arun Tiwari",
@@ -2521,8 +2950,8 @@
         "publisher": "Universities Press",
         "shopping-link": "https://www.amazon.in/Wings-Fire-Autobiography-Abdul-Kalam/dp/8173711461",
         "download-link": "https://indianpdf.com/wings-of-fire-book-pdf/"
-      },
-      {
+    },
+    {
         "id": 9,
         "name": "Practicing ",
         "number-pages": 199,
@@ -2530,8 +2959,8 @@
         "publishing-year": "2000",
         "shopping-link": "https://www.amazon.in/Practicing-Mind-Developing-Discipline-Challenge",
         "download-link": "https://pdflake.com/the-practicing-mind-pdf-book/"
-      },
-      {
+    },
+    {
         "id": 10,
         "name": "Alchemist ",
         "number-pages": 163,
@@ -2539,8 +2968,8 @@
         "publishing-year": "1988",
         "shopping-link": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjRiuzW2rz6AhXg9jgGHS1OBzIQFnoECBEQAQ&url=https%3A%2F%2Fwww.amazon.in%2FAlchemist-Paulo-Coelho%2Fdp%2F8172234988&usg=AOvVaw014qU5igpIZgMIRO_Dm9yp",
         "download-link": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiGj9To2rz6AhXswzgGHTeJAKgQFnoECAoQAQ&url=https%3A%2F%2Fpdflake.com%2Fthe-alchemist-pdf-book-in-english-by-paulo-coelho%2F&usg=AOvVaw2NBK6tr3MIpDiYoAT2aWaF"
-      },
-      {
+    },
+    {
         "id": 11,
         "number-pages": 265,
         "name": "Boundaries: When to Say Yes, How to Say No to Take Control of Your Life",
@@ -2549,8 +2978,8 @@
         "publisher": "John Townsend",
         "shopping-link": "https://www.amazon.in/Boundaries-Updated-Expanded-When-Control/dp/0310247454",
         "download-link": "https://www.pdfdrive.com/boundaries-when-to-say-yes-how-to-say-no-to-take-control-of-your-life-e60363043.html"
-      },
-      {
+    },
+    {
         "id": 12,
         "number-pages": 258,
         "name": "Living in the Light: A guide to personal transformation",
@@ -2559,8 +2988,8 @@
         "publisher": "Nataraj Pub., 1992",
         "shopping-link": "https://www.amazon.in/Living-Light-Personal-Planetary-Transformation/dp/1442950277",
         "download-link": "https://www.pdfdrive.com/living-in-the-light-a-guide-to-personal-transformation-e10172273.html"
-      },
-      {
+    },
+    {
         "id": 13,
         "number-pages": 2789,
         "name": "Living in the Light: A guide to transformation",
@@ -2569,8 +2998,8 @@
         "publisher": "Nataraj hub., 1992",
         "shopping-link": "https://www.amazon.in/Living-Light-Personal-Planetary-Transformation/dp/14429504587",
         "download-link": "https://www.pdfdrive.com/living-in-the-light-a-guide-to-personal-transformation-e10172783.html"
-      },
-      {
+    },
+    {
         "id": 14,
         "number-pages": 671,
         "name": "Crime and Punishment",
@@ -2579,8 +3008,8 @@
         "publisher": "Penguin Classics",
         "shopping-link": "https://www.amazon.in/Punishment-Penguin-Classics-Fyodor-Dostoyevsky/dp/0140449132",
         "download-link": "https://www.planetebook.com/crime-and-punishment/"
-      },
-      {
+    },
+    {
         "id": 15,
         "number-pages": 265,
         "name": "Theory of Relativity",
@@ -2589,8 +3018,8 @@
         "publisher": "Lippin Company, 1909",
         "shopping-link": "https://www.amazon.com/General-Theory/dp/B000HX1MBG",
         "download-link": "https://www.gutenberg.org/ebooks/6906500"
-      },
-      {
+    },
+    {
         "id": 16,
         "number-pages": 240,
         "name": "2 states",
@@ -2599,8 +3028,8 @@
         "publisher": "Rupa Pub.",
         "shopping-link": "https://www.amazon.in/2-States-Story-My-Marriage/dp/8129135523",
         "download-link": "https://instapdf.in/two-states-by-chetan-bhagat/"
-      },
-      {
+    },
+    {
         "id": 17,
         "number-pages": 224,
         "name": "The Subtle Art of Not Giving a Fuck",
@@ -2609,8 +3038,8 @@
         "publisher": "HarperOne",
         "shopping-link": "https://www.amazon.in/Subtle-Art-Not-Giving/dp/0062641549",
         "download-link": "https://kupdf.net/download/the-subtle-art-of-not-giving-a-fuck_5aa1883fe2b6f5eb1b65a859_pdf"
-      },
-      {
+    },
+    {
         "id": 18,
         "number-pages": 245,
         "name": "4 states",
@@ -2619,8 +3048,8 @@
         "publisher": "pika publi.",
         "shopping-link": "https://www.amazon.in/2-States-Story-My-Marriage/dp/8129135523",
         "download-link": "https://instapdf.in/two-states-by-chetan-bhagat/"
-      },
-      {
+    },
+    {
         "id": 19,
         "number-pages": 224,
         "name": "The Monk Who Sold His Ferrari",
@@ -2629,8 +3058,8 @@
         "publisher": "HarperOne",
         "shopping-link": "https://www.amazon.in/Monk-Who-Sold-His-Ferrari/dp/0062515675",
         "download-link": "https://www.dropbox.com/s/faqnsiqjwb41uwp/%E0%A4%B8%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B8%E0%A5%80%20The%20Monk%20Who%20Sold%20His%20Ferrari%20Hindi%20LifeFeeling.pdf?dl=1"
-      },
-      {
+    },
+    {
         "id": 20,
         "number-pages": 376,
         "name": "It Ends with Us",
@@ -2639,8 +3068,8 @@
         "publisher": "Simon & Schuster",
         "shopping-link": "https://www.flipkart.com/it-ends-with-us/p/itm828ef1132dbdb?pid=RBKGBJUFVHWYGTK3&lid=LSTRBKGBJUFVHWYGTK3CNCPYD&marketplace=FLIPKART&cmpid=content_regionalbooks_18440873650_u_8965229628_gmc_pla&tgi=sem,1,G,11214002,u,,,624398499082,,,,c,,,,,,,",
         "download-link": "https://ia804608.us.archive.org/23/items/juhy_20220104/It%20Ends%20with%20Us%20by%20Colleen%20Hoover%20%28z-lib.org%29.epub.pdf"
-      },
-      {
+    },
+    {
         "id": 21,
         "number-pages": 220,
         "name": "rich dad poor dad",
@@ -2649,8 +3078,8 @@
         "publisher": "Warner Books",
         "shopping-link": "https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680194",
         "download-link": "https://www.pdfdrive.com/rich-dad-poor-dad-e136494023.html"
-      },
-      {
+    },
+    {
         "id": 22,
         "number-pages": 200,
         "name": "Who moved my cheeses",
@@ -2658,8 +3087,8 @@
         "publishing-year": "2004",
         "shopping-link": "https://www.amazon.in/Who-Moved-Cheese-Spencer-Johnson/dp/0091883768#:~:text=Who%20Moved%20My%20Cheese%3F%20is,them%20and%20make%20them%20happy",
         "download-link": "https://en.wikipedia.org/wiki/Who_Moved_My_Cheese%3F"
-      },
-      {
+    },
+    {
         "id": 23,
         "number-pages": 327,
         "name": "I am malala",
@@ -2668,8 +3097,8 @@
         "publisher": "Weidenfeld & Nicolson (UK) Little, Brown and Company (US)",
         "shopping-link": "https://www.amazon.in/Am-Malala-Stood-Education-Taliban/dp/1780226586/ref=asc_df_1780226586/?tag=googleshopdes-21&linkCode=df0&hvadid=397083491927&hvpos=&hvnetw=g&hvrand=17077502091211482814&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007789&hvtargid=pla-369816643388&psc=1&ext_vrnc=hi",
         "download-link": "https://www.booksfree.org/i-am-malala-pdf-free-download-a/"
-      },
-      {
+    },
+    {
         "id": 24,
         "number-pages": 575,
         "name": "Bhagwat Geeta",
@@ -2678,8 +3107,8 @@
         "publisher": "BhaktiVedanta bok trust",
         "shopping-link": "https://www.flipkart.com/bhagavad-gita-as-it-is/p/itmezunqsqzycegq",
         "download-link": "https://www.flipkart.com/bhagavad-gita-as-it-is/p/itmezunqsqzycegq"
-      },
-      {
+    },
+    {
         "id": 25,
         "number-pages": 646,
         "name": "It Ends With Us",
@@ -2688,8 +3117,8 @@
         "publisher": "Atria Books",
         "shopping-link": "https://www.amazon.in/s?k=it+ends+with+us+novel&hvadid=73117601034628&hvbmt=bb&hvdev=c&hvqmt=b&tag=msndeskstdin-21&ref=pd_sl_6jzircqp9p_b",
         "download-link": "https://docer.tips/it-ends-with-us-colleen-hoover-eng-pdf.html"
-      },
-      {
+    },
+    {
         "id": 26,
         "number-pages": 265,
         "name": "Alchemist",
@@ -2698,8 +3127,8 @@
         "publisher": "Lippincott Company, 1909",
         "shopping-link": "https://www.amazon.com/Isle-Dead-Ships-Crittenden-MARRIOTT/dp/B000HX1MBG",
         "download-link": "https://www.gutenberg.org/ebooks/69065"
-      },
-      {
+    },
+    {
         "id": 27,
         "number-pages": 245,
         "name": "War and Peace",
@@ -2708,8 +3137,8 @@
         "publisher": "The Russian Messenger",
         "shopping-link": "https://www.amazon.in/War-Peace-Leo-Tolstoy/dp/8175992832",
         "download-link": "https://www.planetebook.com/war-and-peace/"
-      },
-      {
+    },
+    {
         "id": 28,
         "number-pages": 575,
         "name": "Bhagwat Geeta",
@@ -2718,8 +3147,8 @@
         "publisher": "BhaktiVedanta bok trust",
         "shopping-link": "https://www.flipkart.com/bhagavad-gita-as-it-is/p/itmezunqsqzycegq",
         "download-link": "https://www.flipkart.com/bhagavad-gita-as-it-is/p/itmezunqsqzycegq"
-      },
-      {
+    },
+    {
         "id": 29,
         "number-pages": 384,
         "name": "The love hypothesis",
@@ -2727,8 +3156,8 @@
         "publishing-year": "2021",
         "shopping-link": "https://www.flipkart.com/love-hypothesis-tiktok-made-me-buy-it-romcom-year-paperback-21-october-2021-ali-hazelwood-author/p/itmc47ffc15d6d82?pid=RBKGDN8VNVZPXEQH&lid=LSTRBKGDN8VNVZPXEQHNS0R2R&marketplace=FLIPKART&cmpid=content_regionalbooks_18440873650_u_8965229628_gmc_pla&tgi=sem,1,G,11214002,u,,,624398499082,,,,c,,,,,,,&gclid=CjwKCAjwp9qZBhBkEiwAsYFsb4aPEAKyZvdyJjV6KnJ_ClFwheghTXyy1Aiuvwrri2D0lP4MQjGs6BoCsf4QAvD_BwE",
         "download-link": "https://www.ysk-books.com/en/show/book/the-love-hypothesis-pdf"
-      },
-      {
+    },
+    {
         "id": 30,
         "number-pages": 228,
         "name": "The Monk Who Sold His Ferrari",
@@ -2738,8 +3167,8 @@
         "shopping-link": "https://www.amazon.in/Monk-Who-Sold-His-Ferrari/dp/0062515675",
         "download-link": "https://www.apnamba.com/Ebooks-pdf/The%20Monk%20who%20sold%20his%20ferrari%20-%20Robin%20Sharma%20(PDF)%20%5BQwerty80%5D.pdf",
         "download-link": "https://www.apnamba.com/Ebooks-pdf/The%20Monk%20who%20sold%20his%20ferrari%20-%20Robin%20Sharma%20(PDF)%20%5BQwerty80%5D.pdf"
-      },
-      {
+    },
+    {
         "id": 31,
         "number-pages": 575,
         "name": "Bhagwat Geeta",
@@ -2748,8 +3177,8 @@
         "publisher": "BhaktiVedanta bok trust",
         "shopping-link": "https://www.flipkart.com/bhagavad-gita-as-it-is/p/itmezunqsqzycegq",
         "download-link": "https://www.flipkart.com/bhagavad-gita-as-it-is/p/itmezunqsqzycegq"
-      },
-      {
+    },
+    {
         "id": 32,
         "number-pages": 312,
         "name": "Do epic shit",
@@ -2758,8 +3187,8 @@
         "publisher": "Juggernaut ",
         "shopping-link": "https://www.amazon.in/DO-EPIC-SHIT-Ankur-Warikoo/dp/9391165486",
         "download-link": "https://www.pdfread.net/ebook/do-epic-shit-ankur-warikoo/"
-      },
-      {
+    },
+    {
         "id": 33,
         "number-pages": 300,
         "name": "Wilder Girls",
@@ -2768,8 +3197,8 @@
         "publisher": "penguin",
         "shopping-link": "https://amazon.in/dp/B07MTNBT52?ref=KC_GS_GB_IN",
         "download-link": "https://amazon.in/dp/B07MTNBT52?ref=KC_GS_GB_IN"
-      },
-      {
+    },
+    {
         "id": 34,
         "number-pages": 575,
         "name": "Bhagwat Geeta",
@@ -2778,8 +3207,8 @@
         "publisher": "BhaktiVedanta bok trust",
         "shopping-link": "https://www.flipkart.com/bhagavad-gita-as-it-is/p/itmezunqsqzycegq",
         "download-link": "https://www.flipkart.com/bhagavad-gita-as-it-is/p/itmezunqsqzycegq"
-      },
-      {
+    },
+    {
         "id": 35,
         "number-pages": 1055,
         "name": "ramayan",
@@ -2788,8 +3217,8 @@
         "publisher": "geeta press",
         "shopping-link": "https://www.amazon.in/gorakhpur-ramcharitmanas-Tulsidas-Ramcharitmanas-Hardcover/dp/B09BD6P7M3/ref=asc_df_B09BD6P7M3/?tag=googleshopdes-21&linkCode=df0&hvadid=545392427274&hvpos=&hvnetw=g&hvrand=12548556514743239659&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007789&hvtargid=pla-1541807510306&psc=1",
         "download-link": "https://www.amazon.in/gorakhpur-ramcharitmanas-Tulsidas-Ramcharitmanas-Hardcover/dp/B09BD6P7M3/ref=asc_df_B09BD6P7M3/?tag=googleshopdes-21&linkCode=df0&hvadid=545392427274&hvpos=&hvnetw=g&hvrand=12548556514743239659&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007789&hvtargid=pla-1541807510306&psc=1"
-      },
-      {
+    },
+    {
         "id": 36,
         "number-pages": 1886,
         "name": "The Alchemist",
@@ -2828,7 +3257,7 @@
         "publisher": "Warner Books",
         "shopping-link": "www.flipkart.com/rich-dad-poor/p/itmfeesg9hzqqetb",
         "download-link": "https://www.pdfdrive.com/rich-dad-poor-dad-e136494023.html"
-      },
+    },
       {
         "id": 37,
         "name": "Wings of Fire",
@@ -2837,8 +3266,8 @@
         "publishing-year": "1999",
         "shopping-link": "https://www.amazon.in/Wings-Fire-Autobiography-Abdul-Kalam/dp/8173711461",
         "download-link": "https://ati.dae.gov.in/ati12052021_8.pdf"
-      },
-      {
+    },
+    {
         "id": 38,
         "number-pages": 736,
         "name": "Ulysses",
@@ -2847,7 +3276,7 @@
         "publisher": "Wordsworth Editions Ltd; New Edition",
         "shopping-link": "https://www.amazon.in/War-Peace-Leo-Tolstoy/dp/8175992832",
         "download-link": "https://www.planetebook.com/ulysses/"
-      },
+    },
       {
         "id": 39,
         "number-pages": 336,
@@ -2857,7 +3286,7 @@
         "publisher": "Simon & Schuster",
         "shopping-link": "https://www.flipkart.com/ugly-love/p/itm37b4caa6102e6?pid=RBKGC4RKCQD4TVWY&lid=LSTRBKGC4RKCQD4TVWYSM6QVG&marketplace=FLIPKART&cmpid=content_regionalbooks_18440873650_u_8965229628_gmc_pla&tgi=sem,1,G,11214002,u,,,624398499082",
         "download-link": "https://ia804505.us.archive.org/27/items/1_20210822_20210822_1607/PDFORALL.COM-Ugly%20Love%20by%20Colleen%20Hoover.pdf"
-      },
+    },
       {
         "id": 40,
         "number-pages": 24,
@@ -2867,7 +3296,121 @@
         "publisher": "The hindu messenger",
         "shopping-link": "https://www.amazon.in/Lou/dp/B075FZDHPZ",
         "download-link": "https://www.linkedin.com/in/louwang?original_referer=https%3A%2F%2Fwww.google.com%2F"
-      },
+    },
+    {
+        "id": 41,
+        "name": "The Great Gatsby",
+        "number-pages": 200,
+        "author": "F. Scott Fitzgerald",
+        "publishing-year": "1925",
+        "shopping-link": "https://www.amazon.in/Gatsby-Fitzgerald-Hardcover-International-Bestseller/dp/9391626351/ref=asc_df_9391626351/?tag=googleshopdes-21&linkCode=df0&hvadid=586385285702&hvpos=&hvnetw=g&hvrand=67477073752252646&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007786&hvtargid=pla-1653658130611&psc=1",
+        "download-link": "https://www.google.com/search?q=The+Great+Gatsby+download&client=ubuntu&hs=iw3&sa=X&channel=fs&biw=1538&bih=783&tbm=shop&ei=yzI3Y8ffBprn4-EPsqme8AI&ved=0ahUKEwiH8a6WkL36AhWa8zgGHbKUBy4Q4dUDCAU&uact=5&oq=The+Great+Gatsby+download&gs_lcp=Cgtwcm9kdWN0cy1jYxADMggIABAeEBYQGDoHCAAQsAMQQzoICAAQgAQQsAM6BAgAEEM6BQgAEIAEOgQIABAYSgQIQRgBUJ0EWI0bYNUcaAZwAHgAgAHQAYgB0xWSAQUwLjYuOJgBAKABAcgBCsABAQ&sclient=products-cc"
+    },
+    {
+        "id": 42,
+        "number-pages": 1055,
+        "name": "The Private Life of an Indian Prince ",
+        "author": "Mulk Raj Anand",
+        "publishing-year": "1953",
+        "publisher": "HarperCollins Publishers India",
+        "shopping-link": "https: //www.amazon.in/Private-Life-Indian-Prince-Pb/dp/817223760X",
+        "download-link": "https://www.amazon.in/Private-Life-Indian-Prince-Pb/dp/817223760X"
+    },
+    {
+        "id": 43,
+        "name": "Practicing Mind",
+        "number-pages": 98,
+        "author": "Tom Sterner",
+        "publishing-year": "2006",
+        "shopping-link": "https://www.amazon.in/Practicing-Mind-Developing-Discipline-Challenge/dp/1608680908",
+        "download-link": "https://pdflake.com/the-practicing-mind-pdf-book/"
+    },
+    {
+    "id": 44,
+    "number-pages": 24,
+    "name": "TRAIN TO PAKISTAN BY KHUSHWANT SINGH",
+    "author": "Khushwant Singh ",
+    "publishing-year": "1956",
+    "publisher": "Chatto & Windus",
+    "shopping-link": "https://www.amazon.in/Train-Pakistan-Khushwant-Singh/dp/0143065882",
+    "download-link": "https://www.amazon.in/Train-Pakistan-Khushwant-Singh/dp/0143065882"
+    },
+    {
+    "id": 45,
+    "number-pages": 368,
+    "author": "Jo Marchant",
+    "publishinM-year": "2020",
+    "publisher": "Canongate ",
+    "shopping-link": "https://www.amazon.in/Human-Cosmos-Secret-History-Stars/dp/1786894025",
+    "download-link": "https://www.goodreads.com/book/show/50165550-the-human-cosmos"
+  },
+  {
+      "id": 46,
+      "name": "You can Win",
+      "number-pages": 300,
+      "author": "Shiv Khera",
+      "publishing-year": "2004",
+      "shopping-link": "https://www.flipkart.com/you-can-win/p/itmfc5dutwsbvahs#:~:text=You%20Can%20Win%3A%20A%20Step,by%20motivational%20speaker%20Shiv%20Khera.&text=Success%20is%20a%20hard%20commodity,needs%20careful%20planning%2C%20and%20deliberation.",
+      "download-link": "https://shivkhera.com/Downloads/YCW%20-%20English%20Text.pdfF"
+  },
+  {
+      "id": 47,
+      "number-pages": 320,
+      "author": "James clear",
+      "publishinM-year": "2018",
+      "publisher": "PenguinRandomHouse ",
+      "shopping-link": "https://www.amazon.in/Atomic-Habits-James-Clear/dp/1847941834/ref=asc_df_1847941834/?tag=googleshopdes-21&linkCode=df0&hvadid=396987849297&hvpos=&hvnetw=g&hvrand=9469622242698612474&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9299716&hvtargid=pla-551566274852&psc=1&ext_vrnc=hi",
+      "download-link": "https://archive.org/download/atomic-habits_202104/Atomic%20Habits.pdf"
+  },
+  {
+      "id": 48,
+      "name": "Curious: The Desire to Know and Why Your Future Depends on It",
+      "number-pages": 178,
+      "author": "IAN LESLIE",
+      "publishing-year": "",
+      "publisher": "Basic Books; Reprint edition ",
+      "shopping-link": "https://www.amazon.com/Curious-Desire-Know-Future-Depends/dp/0465097626#:~:text=Curiosity%20is%20a%20mental%20muscle,that%20of%20those%20around%20you.",
+      "download-link": "https://www.goodreads.com/book/show/50165550-the-human-cosmos"
+  },
+  {
+      "id": 49,
+      "name": "Around the World in Eighty Days",
+      "number-pages": 130,
+      "author": "Jules Verne",
+      "publishing-year": "1872",
+      "shopping-link": "https://www.amazon.in/Around-World-Eighty-Jules-Verne/dp/8175993936/ref=sr_1_2?crid=84ON5LKWED2R&keywords=around+the+world+in+80+days+by+jules+verne&qid=1664563986&qu=eyJxc2MiOiIyLjg1IiwicXNhIjoiMi4wOSIsInFzcCI6IjEuNTUifQ%3D%3D&sprefix=around+the+world+in+80+days%2Caps%2C222&sr=8-2",
+      "download-link": "https://www.gutenberg.org/ebooks/103"
+  },
+  {
+      "id": 50,
+      "name": "Diary of a Wimpy Kid",
+      "number-pages": 512,
+      "author": "Jeff Kinney",
+      "publishing-year": "2001",
+      "publisher": "Basic Books; Reprint edition ",
+      "shopping-link": "https://en.wikipedia.org/wiki/Diary_of_a_Wimpy_Kid",
+      "download-link": "https://wimpykid.com/"
+  },
+  {
+      "id": 14,
+      "number-pages": 671,
+      "name": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "publishing-year": "1866",
+      "publisher": "Penguin Classics",
+      "shopping-link": "https://www.amazon.in/Punishment-Penguin-Classics-Fyodor-Dostoyevsky/dp/0140449132",
+      "download-link": "https://www.planetebook.com/crime-and-punishment/"
+  },
+{ 
+  "id": 44,
+    "number-pages": 100,
+    "name": "COMBAT OF SHADOWS BY MANOHAR MALGONAR",
+    "author": "Manohar Malgonkar ",
+    "publishing-year": "1962",
+    "publisher": "Combat of Shadows Paperback ",
+    "shopping-link": "https://www.flipkart.com/combat-of-shadows/p/itmetjjwhguazb35",
+    "download-link": "https://www.flipkart.com/combat-of-shadows/p/itmetjjwhguazb35"
+},
       {
         "id": 41,
         "name": "The Great Gatsby",
@@ -3431,8 +3974,5 @@
         "publisher": "Juggernaut ",
         "shopping-link": "https://www.amazon.in/DO-EPIC-SHIT-Ankur-Warikoo/dp/9391165486",
         "download-link": "https://www.pdfread.net/ebook/do-epic-shit-ankur-warikoo/"
-      },
+      }
     ]
-    
-  
-  
