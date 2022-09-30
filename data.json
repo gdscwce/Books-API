@@ -463,12 +463,13 @@
         "download-link": "https://www.goodreads.com/book/show/50165550-the-human-cosmos"
     },
     {
-        "id": 49,
-        "name": "Around the World in Eighty Days",
-        "number-pages": 130,
-        "author": "Jules Verne",
-        "publishing-year": "1872",
-        "shopping-link": "https://www.amazon.in/Around-World-Eighty-Jules-Verne/dp/8175993936/ref=sr_1_2?crid=84ON5LKWED2R&keywords=around+the+world+in+80+days+by+jules+verne&qid=1664563986&qu=eyJxc2MiOiIyLjg1IiwicXNhIjoiMi4wOSIsInFzcCI6IjEuNTUifQ%3D%3D&sprefix=around+the+world+in+80+days%2Caps%2C222&sr=8-2",
-        "download-link": "https://www.gutenberg.org/ebooks/103"
-    }
+       "id": 48,
+        "name":"THE GOD OF SMALL THINGS BY ARUNDHATI ROY",
+
+        "number-pages": 320,
+        "author": "Arundhati Roy",
+        "publishinM-year": "1997",
+        "publisher": "PenguinRandomHouse ",
+        "shopping-link": "https://www.amazon.com/God-Small-Things-Novel/dp/0812979656",
+        "download-link": "https://www.amazon.com/God-Small-Things-Novel/dp/0812979656"
 ]
