@@ -2078,5 +2078,15 @@
 		"publisher": "PenguinRandomHouse ",
 		"shopping-link": "https://www.amazon.com/God-Small-Things-Novel/dp/0812979656",
 		"download-link": "https://www.amazon.com/God-Small-Things-Novel/dp/0812979656"
+	},
+	{
+		"id": 79,
+		"number-pages": 310,
+		"name": "The Hobbit",
+		"author": "J. R. R. Tolkien",
+		"publishing-year": "1937",
+		"publisher": "George Allen & Unwin",
+		"shopping-link": "https://www.google.co.in/books/edition/The_Hobbit/CixXEAAAQBAJ?hl=en",
+		"download-link": "https://www.pdfdrive.com/the-hobbit-e17592270.html"
 	}
 ]
