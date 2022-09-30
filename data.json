@@ -1474,7 +1474,16 @@
 		"download-link": "https://www.ysk-books.com/en/show/book/the-love-hypothesis-pdf"
 	},
 	{
-		"id": 30,
+		"id": 23,
+		"number-pages": 416,
+		"name": "ALCHEMY OF FINANCE",
+		"author": "George Soros",
+		"publishing-year": "1987",
+		"shopping-link": "https://www.amazon.in/Alchemy-Finance-George-Soros/dp/8126535172",
+		"download-link": "https://www.pdfdrive.com/the-alchemy-of-finance-reading-the-mind-of-the-market-e183604030.html"
+  },
+
+{    "id": 30,
 		"number-pages": 228,
 		"name": "The Monk Who Sold His Ferrari",
 		"author": "Robin Sharma",
