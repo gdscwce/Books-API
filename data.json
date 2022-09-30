@@ -2106,7 +2106,7 @@
 		"author": "Ranjit Desai,Vikram pande",
 		"publishing-year": "20 December 2017",
 		"publisher": "penguin",
-		"shopping-link": "https://www.amazon.in/Shivaji-Great-Maratha-Ranjit-Desai/dp/9352774396",
+		"shopping-link": "https://www.amazon.in/Shivaji-Great-Maratha-Ranjit-Desai/dp/9352774396"
 	},
 	{
 		"id": 82,
@@ -2126,5 +2126,14 @@
 		"publisher": "Varada Prakashan Pvt. Ltd.",
 		"shopping-link": "https://www.amazon.in/Shyamchi-Aai-Sane-Guruji/dp/8177866591",
 		"download-link": "http://www.esahity.com/uploads/5/0/1/2/501218/shyamachi_aai.pdf"
+	},
+	{
+		"id": 84,
+		"name": "Bharat ki Khoj",
+		"number-pages": 200,
+		"author": "jawhaharlal nehru",
+		"publishing-year": "1925",
+		"shopping-link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjOiqjekr36AhWWDisKHf8VD-gYABABGgJzZg&sig=AOD64_1EGSHzFoOkD62TQQNyhKl08PxArw&ctype=5&q=&ved=0ahUKEwjc4aPekr36AhUXcWwGHcxuAWAQww8Iwgc&adurl=",
+		"download-link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjOiqjekr36AhWWDisKHf8VD-gYABABGgJzZg&sig=AOD64_1EGSHzFoOkD62TQQNyhKl08PxArw&ctype=5&q=&ved=0ahUKEwjc4aPekr36AhUXcWwGHcxuAWAQww8Iwgc&adurl=bvf"
 	}
 ]
