@@ -2144,5 +2144,14 @@
 		"publishing-year": "1848",
 		"shopping-link": "https://www.amazon.com/White-Nights-Fyodor-Dostoyevsky/dp/0241252083",
 		"download-link": "https://www.holybooks.com/wp-content/uploads/White-Nights-And-Other-Stories.pdf"
-	}
+	},
+	{
+		"id": 86,
+		"name": "Wings Of Fire",
+		"number-pages": 180,
+		"author": "Dr. A. P. J. Abdul Kalam , Mr. Arun Tiwari",
+		"publishing-year": "1999",
+		"shopping-link": "https://amzn.eu/d/27aw0Ff",
+		"download-link": "https://indianpdf.com/wings-of-fire-book-pdf/"
+	},
 ]
