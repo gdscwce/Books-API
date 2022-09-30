@@ -1963,4 +1963,14 @@
 		"shopping-link": "https://www.google.com/search?q=mein+kampf&sxsrf=ALiCzsalRrqu0qkJkfgwU1h-K9ESDgOdww:1664567684092&source=lnms&tbm=shop&sa=X&ved=2ahUKEwj7847spb36AhVOSmwGHTmSCYsQ_AUoAXoECAEQAw&biw=767&bih=704&dpr=1.25",
 		"download-link": "https://greatwar.nl/books/meinkampf/meinkampf.pdf"
 	},
+	{
+		"id": 67,
+		"number-pages": 152,
+		"name": "The Subtle Art of Not Giving a F*ck",
+		"author": "Mark Manson",
+		"publishing-year": "2016",
+		"publisher": "Enslow Publishing",
+		"shopping-link": "https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713",
+		"download-link": "https://www.pdfdrive.com/the-subtle-art-of-not-giving-a-fuck-by-mark-manson-e200835181.html"
+	}
 ]
