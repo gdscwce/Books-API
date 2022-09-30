@@ -1981,5 +1981,15 @@
 		"publishing-year": "1987",
 		"publisher": "Kodansha",
 		"shopping-link": "https://www.amazon.in/Norwegian-Wood-Haruki-Murakami/dp/0099448823",
+	},
+	{
+		"id": 69,
+		"number-pages": 336,
+		"name": "The 5 AM Club",
+		"author": "Robin Sharma",
+		"publishing-year": "2018",
+		"publisher": " Jaico Publishing House",
+		"shopping-link": "https://www.amazon.in/AM-Club-Your-Morning-Elevate/dp/9387944891/ref=sr_1_3?keywords=the+5+am+club&qid=1664566452&qu=eyJxc2MiOiIxLjUzIiwicXNhIjoiMS4xMSIsInFzcCI6IjAuOTcifQ%3D%3D&sprefix=the+5+am%2Caps%2C276&sr=8-3",
+		"download-link": "https://www.pdfnotes.co/the-5am-club/"
 	}
 ]
