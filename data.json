@@ -1919,7 +1919,7 @@
 		"id": 61,
 		"number-pages": 304,
 		"name": "The Girl in The Room 109",
-		"author": "hetan Bhagat",
+		"author": "Chetan Bhagat",
 		"publishing-year": "2018",
 		"publisher": "Eastland books",
 		"shopping-link": "https://www.amazon.in/Girl-Room-105-Chetan-Bhagat/dp/1542040469",
@@ -1944,5 +1944,24 @@
 		"publisher": "Harper Perennial Modern Classics",
 		"shopping-link": "https://www.amazon.com/s/ref=x_gr_w_bb_sout?tag=x_gr_w_bb_sout-20&creative=374001&campaign=211041&adid=082VK13VJJCZTQYGWWCZ&index=books&keyword=To+Kill+a+Mockingbird",
 		"download-link": "https://bookanalysis.com/harper-lee/to-kill-a-mockingbird/"
+	},
+	{
+		"id": 64,
+		"number-pages": 312,
+		"name": "One Arragned Murder",
+		"author": "Chetan Bhagat",
+		"publishing-year": "2020",
+		"publisher": "Westland Publications Limited",
+		"shopping-link": "https://www.flipkart.com/one-arranged-murder/p/itmb4cd0197e98ce",
+		"download-link": "https://ia801704.us.archive.org/3/items/SC_10042/%5BStudyCrux.com%5D%20One%20Arranged%20Murder%20by%20Chetan%20Bhagat-X.pdf"
+	},
+	{
+		"id": 65,
+		"name": "Deep Work",
+		"number-pages": 290,
+		"author": "Carl Newport",
+		"publishing-year": "2016",
+		"shopping-link": "https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692",
+		"download-link": "https://www.pdfdrive.com/deep-work-cal-newport-e33410582.html"
 	}
 ]
