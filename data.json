@@ -2144,5 +2144,15 @@
 		"publishing-year": "1848",
 		"shopping-link": "https://www.amazon.com/White-Nights-Fyodor-Dostoyevsky/dp/0241252083",
 		"download-link": "https://www.holybooks.com/wp-content/uploads/White-Nights-And-Other-Stories.pdf"
+	},
+	{
+		"id": 86,
+		"name": "Les Misérables",
+		"number-pages": 1462,
+		"author": "Victor Hugo",
+		"publishing-year": "1862",
+		"shopping-link": "https://www.amazon.com/Miserables-Signet-Classics-Victor-Hugo/dp/045141943X/ref=sr_1_1?keywords=les+miserables&qid=1664574041&qu=eyJxc2MiOiIzLjg1IiwicXNhIjoiNC4xNSIsInFzcCI6IjIuMjkifQ%3D%3D&s=books&sr=1-1",
+		"download-link": "https://www.gutenberg.org/ebooks/135"
 	}
+
 ]
