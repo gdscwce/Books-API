@@ -2153,6 +2153,21 @@
 		"publishing-year": "1862",
 		"shopping-link": "https://www.amazon.com/Miserables-Signet-Classics-Victor-Hugo/dp/045141943X/ref=sr_1_1?keywords=les+miserables&qid=1664574041&qu=eyJxc2MiOiIzLjg1IiwicXNhIjoiNC4xNSIsInFzcCI6IjIuMjkifQ%3D%3D&s=books&sr=1-1",
 		"download-link": "https://www.gutenberg.org/ebooks/135"
-	}
-
-]
+	},
+  {
+		"name": "Wings Of Fire",
+		"number-pages": 180,
+		"author": "Dr. A. P. J. Abdul Kalam , Mr. Arun Tiwari",
+		"publishing-year": "1999",
+		"shopping-link": "https://amzn.eu/d/27aw0Ff",
+		"download-link": "https://indianpdf.com/wings-of-fire-book-pdf/"
+	},
+{
+		"id": 86,
+		"name": "Wings of Fire",
+		"number-pages": 180,
+		"author": "A P J Abdul Kalam",
+		"publishing-year": "1999",
+		"shopping-link": "https://www.amazon.in/Wings-Fire-Autobiography-Abdul-Kalam/dp/8173711461",
+		"download-link": "https://ati.dae.gov.in/ati12052021_8.pdf"
+	},
