@@ -2205,5 +2205,14 @@
 		"publishing-year": "2017",
 		"shopping-link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiu9LLuw776AhVLk2YCHVTjAuUYABAFGgJzbQ&ae=2&sig=AOD64_3sM_6ouN-ldt4j7GXG3TQlA5fdBA&ctype=5&q=&ved=2ahUKEwjW1Kvuw776AhUf3TgGHe_GBX0Q9aACKAB6BAgEEAs&adurl=",
 		"download-link": "http://pdvpmtasgaon.edu.in/uploads/dptcomputer/Let%20us%20c%20-%20yashwantkanetkar.pdf"
-	}
+	},
+  {
+    "id": 92,
+    "name": "Web Hacking 101",
+    "number-pages": 255,
+    "author": "Peter Yaworski",
+    "publishing-year": "2015",
+    "shopping-link": "https://leanpub.com/web-hacking-101",
+    "download-link": "https://digtvbg.com/files/books-for-hacking/Web%20Hacking%20101%20-%20How%20to%20Make%20Money%20Hacking%20Ethically%20by%20Peter%20Yaworski.pdf"
+  }
 ]
