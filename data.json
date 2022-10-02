@@ -2235,7 +2235,17 @@
 		"publishing-year": "1999",
 		"shopping-link": "https://www.amazon.in/Attitude-Everything-Change-Your-Life/dp/9351772071
 		"download-link": "https://www.pdfnotes.co/attitude-is-everything-book/"
-	}
+	},
+     {
+            "id": 95,
+		"name": "The Fault in our stars",
+		"number-pages": 336,
+		"author": "John Green",
+		"publishing-year": "2012",
+            "publisher": "Dutton Books for Young Readers",
+		"shopping-link": "https://www.amazon.in/Fault-Our-Stars-John-Green/dp/014242417X"
+		"download-link": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjtmIbBt8H6AhUbSmwGHWhcAMIQFnoECB4QAQ&url=https%3A%2F%2Fbooks-library.net%2Ffiles%2Fbooks-library.online-12292230Vr3R6.pdf&usg=AOvVaw3VLeA6GpLJFh2LGZfxFJBG"
+      }
 	
 
 ]
