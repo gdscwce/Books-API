@@ -4428,6 +4428,16 @@
 	},
 
 	{
+    "id": 153,
+    "number-pages": 432,
+    "name": "Yayati",
+    "author": "V.S. Khandekar",
+    "publishing-year": "2013",
+    "publisher": "Mehata Publishing House,Pune",
+    "shopping-link": "https://www.amazon.in/Yayati-Marathi-V-S-Khandekar/dp/8171615880/ref=asc_df_8171615880/?tag=googleshopdes-21&linkCode=df0&hvadid=396986886873&hvpos=&hvnetw=g&hvrand=2168486974358976796&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007789&hvtargid=pla-318700093430&psc=1&ext_vrnc=hi",
+    "download-link": "https://360marathi.in/wp-content/uploads/2021/05/YAYATI-Marathi.pdf"
+  },
+	{
 		"id":92,
 		"name":"Frog of Arcadia",
 		"number-pages": 108,
@@ -4522,4 +4532,5 @@
 		"shopping-link": "https://www.amazon.in/Fault-Our-Stars-John-Green/dp/014242417X",
 		"download-link": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjtmIbBt8H6AhUbSmwGHWhcAMIQFnoECB4QAQ&url=https%3A%2F%2Fbooks-library.net%2Ffiles%2Fbooks-library.online-12292230Vr3R6.pdf&usg=AOvVaw3VLeA6GpLJFh2LGZfxFJBG"
   }
+
 ]
