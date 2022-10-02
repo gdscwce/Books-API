@@ -2197,7 +2197,8 @@
     "publishing-year": "2017",
     "shopping-link": "https://www.amazon.in/JavaScript-Beginners-Everything-Language-Programming/dp/1548799386",
     "download-link": "https://www.pdfdrive.com/javascript-javascript-for-beginners-learn-javascript-programming-with-ease-in-half-the-time-everything-about-the-language-coding-programming-and-web-pages-you-need-to-know-e158299863.html"
-  },{
+  },
+  {
 		"id": 91,
 		"name": "Let Us C",
 		"number-pages": 743,
@@ -2207,6 +2208,7 @@
 		"download-link": "http://pdvpmtasgaon.edu.in/uploads/dptcomputer/Let%20us%20c%20-%20yashwantkanetkar.pdf"
 	},
 	{
+
 		"id": 100,
 		"name": "One Night at the call centre",
 		"number-pages": 267,
@@ -2215,5 +2217,50 @@
 		"shopping-link": "https://www.amazon.in/Night-Call-Centre-Chetan-Bhagat/dp/8129135507",
 		"download-link": "https://hum14.files.wordpress.com/2008/11/one-night-at-call-centre.pdf"
 	},
-		
+	
+		"id": 92,
+		"name": "Five Point Someone",
+		"number-pages": 270,
+		"author": "Chetan Bhagat",
+		"publishing-year": "2004",
+		"shopping-link": "https://www.amazon.in/Five-Point-Someone-What-Not/dp/8129135493/ref=asc_df_8129135493/?tag=googleshopdes-21&linkCode=df0&hvadid=397082398943&hvpos=&hvnetw=g&hvrand=11060934719459260822&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007789&hvtargid=pla-318700089790&psc=1&ext_vrnc=hi",
+		"download-link": "https://www.pdfdrive.com/five-point-someone-d14979218.html"
+	},
+  {
+    "id": 92,
+		"name": "The Cat people",
+		"number-pages": 320,
+		"author": "Devapriya Roy",
+		"publishing-year": "2021",
+		"shopping-link": "https://www.amazon.in/Cat-People-Devapriya-Roy/dp/9392099126/ref=asc_df_9392099126/?tag=googleshopdes-21&linkCode=df0&hvadid=545580300880&hvpos=&hvnetw=g&hvrand=12825185931235194698&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9299716&hvtargid=pla-1569979344473&psc=1",
+		"download-link": "https://www.simonandschuster.com/books/Cat-People/Devapriya-Roy/9789392099137"
+	},
+  {
+    "id": 93,
+    "name": "Web Hacking 101",
+    "number-pages": 255,
+    "author": "Peter Yaworski",
+    "publishing-year": "2015",
+    "shopping-link": "https://leanpub.com/web-hacking-101",
+    "download-link": "https://digtvbg.com/files/books-for-hacking/Web%20Hacking%20101%20-%20How%20to%20Make%20Money%20Hacking%20Ethically%20by%20Peter%20Yaworski.pdf"
+  },
+	{
+		"id": 94,
+		"name": "Attitude is everything",
+		"number-pages": 144,
+		"author": "Jeff Keller ",
+		"publishing-year": "1999",
+		"shopping-link": "https://www.amazon.in/Attitude-Everything-Change-Your-Life/dp/9351772071
+		"download-link": "https://www.pdfnotes.co/attitude-is-everything-book/"
+	},
+  {
+    "id": 95,
+		"name": "The Fault in our stars",
+		"number-pages": 336,
+		"author": "John Green",
+		"publishing-year": "2012",
+    "publisher": "Dutton Books for Young Readers",
+		"shopping-link": "https://www.amazon.in/Fault-Our-Stars-John-Green/dp/014242417X"
+		"download-link": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjtmIbBt8H6AhUbSmwGHWhcAMIQFnoECB4QAQ&url=https%3A%2F%2Fbooks-library.net%2Ffiles%2Fbooks-library.online-12292230Vr3R6.pdf&usg=AOvVaw3VLeA6GpLJFh2LGZfxFJBG"
+  },
 ]
