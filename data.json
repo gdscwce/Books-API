@@ -4426,15 +4426,26 @@
 		"shopping-link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiu9LLuw776AhVLk2YCHVTjAuUYABAFGgJzbQ&ae=2&sig=AOD64_3sM_6ouN-ldt4j7GXG3TQlA5fdBA&ctype=5&q=&ved=2ahUKEwjW1Kvuw776AhUf3TgGHe_GBX0Q9aACKAB6BAgEEAs&adurl=",
 		"download-link": "http://pdvpmtasgaon.edu.in/uploads/dptcomputer/Let%20us%20c%20-%20yashwantkanetkar.pdf"
 	},
-	"id": 91,
+
+	{
+		"id": 92,
+		"name": "Tuesdays with morrie",
+		"number-pages": 208,
+		"author": "Mitch Album",
+		"publishing-year": "1997",
+		"shopping-link": "https://www.amazon.in/Tuesdays-Morrie-young-greatest-lesson/dp/0751527378",
+		"download-link": "https://www.amazon.in/Tuesdays-Morrie-young-greatest-lesson-ebook/dp/B002TXZRNQ"
+	},
+	{   
+		"id": 91,
 		"name": "Shamchi Aai",
 		"number-pages": 232,
 		"author": "Pandurang Sadashiv Sane",
 		"publishing-year": "1935",
 		"shopping-link": "https://www.amazon.in/Shyamchi-Aai-Sane-Guruji/dp/B07MYLR6N1",
 		"download-link": "https://www.pdfhunter.com/shyamchi-aai-book-pdf-free-download/"
-	}
-   {
+	},
+    {
     "id": 92,
     "number-pages": 335,
     "name": "Reminders of Him",
@@ -4443,7 +4454,7 @@
     "publisher": "Center Point Large Print",
     "shopping-link": "https://www.amazon.in/Reminders-Him-Novel-Colleen-Hoover-ebook/dp/B0976V6YSL",
     "download-link": "https://ebooksheep.com/2022/01/18/reminders-of-him-by-colleen-hoover-epub-download/"
-  }
+  },
 	{
 
 		"id": 100,
@@ -4454,7 +4465,7 @@
 		"shopping-link": "https://www.amazon.in/Night-Call-Centre-Chetan-Bhagat/dp/8129135507",
 		"download-link": "https://hum14.files.wordpress.com/2008/11/one-night-at-call-centre.pdf"
 	},
-	
+	{
 		"id": 92,
 		"name": "Five Point Someone",
 		"number-pages": 270,
@@ -4487,17 +4498,17 @@
 		"number-pages": 144,
 		"author": "Jeff Keller ",
 		"publishing-year": "1999",
-		"shopping-link": "https://www.amazon.in/Attitude-Everything-Change-Your-Life/dp/9351772071
+		"shopping-link": "https://www.amazon.in/Attitude-Everything-Change-Your-Life/dp/9351772071",
 		"download-link": "https://www.pdfnotes.co/attitude-is-everything-book/"
 	},
   {
-    "id": 95,
+        "id": 95,
 		"name": "The Fault in our stars",
 		"number-pages": 336,
 		"author": "John Green",
 		"publishing-year": "2012",
-    "publisher": "Dutton Books for Young Readers",
-		"shopping-link": "https://www.amazon.in/Fault-Our-Stars-John-Green/dp/014242417X"
+        "publisher": "Dutton Books for Young Readers",
+		"shopping-link": "https://www.amazon.in/Fault-Our-Stars-John-Green/dp/014242417X",
 		"download-link": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjtmIbBt8H6AhUbSmwGHWhcAMIQFnoECB4QAQ&url=https%3A%2F%2Fbooks-library.net%2Ffiles%2Fbooks-library.online-12292230Vr3R6.pdf&usg=AOvVaw3VLeA6GpLJFh2LGZfxFJBG"
-  },
+  }
 ]
