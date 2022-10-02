@@ -4426,15 +4426,47 @@
 		"shopping-link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiu9LLuw776AhVLk2YCHVTjAuUYABAFGgJzbQ&ae=2&sig=AOD64_3sM_6ouN-ldt4j7GXG3TQlA5fdBA&ctype=5&q=&ved=2ahUKEwjW1Kvuw776AhUf3TgGHe_GBX0Q9aACKAB6BAgEEAs&adurl=",
 		"download-link": "http://pdvpmtasgaon.edu.in/uploads/dptcomputer/Let%20us%20c%20-%20yashwantkanetkar.pdf"
 	},
-	"id": 91,
+
+	{
+    "id": 153,
+    "number-pages": 432,
+    "name": "Yayati",
+    "author": "V.S. Khandekar",
+    "publishing-year": "2013",
+    "publisher": "Mehata Publishing House,Pune",
+    "shopping-link": "https://www.amazon.in/Yayati-Marathi-V-S-Khandekar/dp/8171615880/ref=asc_df_8171615880/?tag=googleshopdes-21&linkCode=df0&hvadid=396986886873&hvpos=&hvnetw=g&hvrand=2168486974358976796&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007789&hvtargid=pla-318700093430&psc=1&ext_vrnc=hi",
+    "download-link": "https://360marathi.in/wp-content/uploads/2021/05/YAYATI-Marathi.pdf"
+  },
+	{
+		"id":92,
+		"name":"Frog of Arcadia",
+		"number-pages": 108,
+		"author": "Blake Bobechko",
+		"publishing-year": "2021",
+		"shopping-link": "https://reedsy.com/discovery/book/frog-of-arcadia-blake-bobechko#review",
+		"download-link": "https://www.researchgate.net/publication/336748107_First_records_of_the_Greenhouse_Frog_Eleutherodactylus_planirostris_in_Southern_Negros_Philippines"
+		
+	},
+
+	{
+		"id": 92,
+		"name": "Tuesdays with morrie",
+		"number-pages": 208,
+		"author": "Mitch Album",
+		"publishing-year": "1997",
+		"shopping-link": "https://www.amazon.in/Tuesdays-Morrie-young-greatest-lesson/dp/0751527378",
+		"download-link": "https://www.amazon.in/Tuesdays-Morrie-young-greatest-lesson-ebook/dp/B002TXZRNQ"
+	},
+	{   
+		"id": 91,
 		"name": "Shamchi Aai",
 		"number-pages": 232,
 		"author": "Pandurang Sadashiv Sane",
 		"publishing-year": "1935",
 		"shopping-link": "https://www.amazon.in/Shyamchi-Aai-Sane-Guruji/dp/B07MYLR6N1",
 		"download-link": "https://www.pdfhunter.com/shyamchi-aai-book-pdf-free-download/"
-	}
-   {
+	},
+    {
     "id": 92,
     "number-pages": 335,
     "name": "Reminders of Him",
@@ -4443,7 +4475,7 @@
     "publisher": "Center Point Large Print",
     "shopping-link": "https://www.amazon.in/Reminders-Him-Novel-Colleen-Hoover-ebook/dp/B0976V6YSL",
     "download-link": "https://ebooksheep.com/2022/01/18/reminders-of-him-by-colleen-hoover-epub-download/"
-  }
+  },
 	{
 
 		"id": 100,
@@ -4454,7 +4486,7 @@
 		"shopping-link": "https://www.amazon.in/Night-Call-Centre-Chetan-Bhagat/dp/8129135507",
 		"download-link": "https://hum14.files.wordpress.com/2008/11/one-night-at-call-centre.pdf"
 	},
-	
+	{
 		"id": 92,
 		"name": "Five Point Someone",
 		"number-pages": 270,
@@ -4487,18 +4519,19 @@
 		"number-pages": 144,
 		"author": "Jeff Keller ",
 		"publishing-year": "1999",
-		"shopping-link": "https://www.amazon.in/Attitude-Everything-Change-Your-Life/dp/9351772071
+		"shopping-link": "https://www.amazon.in/Attitude-Everything-Change-Your-Life/dp/9351772071",
 		"download-link": "https://www.pdfnotes.co/attitude-is-everything-book/"
 	},
   {
-    "id": 95,
+        "id": 95,
 		"name": "The Fault in our stars",
 		"number-pages": 336,
 		"author": "John Green",
 		"publishing-year": "2012",
-    "publisher": "Dutton Books for Young Readers",
-		"shopping-link": "https://www.amazon.in/Fault-Our-Stars-John-Green/dp/014242417X"
+        "publisher": "Dutton Books for Young Readers",
+		"shopping-link": "https://www.amazon.in/Fault-Our-Stars-John-Green/dp/014242417X",
 		"download-link": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjtmIbBt8H6AhUbSmwGHWhcAMIQFnoECB4QAQ&url=https%3A%2F%2Fbooks-library.net%2Ffiles%2Fbooks-library.online-12292230Vr3R6.pdf&usg=AOvVaw3VLeA6GpLJFh2LGZfxFJBG"
+
   },
 	{
 		"id": 96,
@@ -4508,5 +4541,6 @@
 		"publishing-year": "2020",
 		"shopping-link": "https://www.amazon.in/What-Every-Body-Saying-Speed-Reading/dp/006306927X/ref=sr_1_49?adgrpid=136672682136&gclid=CjwKCAjw7eSZBhB8EiwA60kCWzuWQU0q2kT0KGTTUOrv81INlWNmG-SNLannBEPr5iHx1AV0di9zgxoCkdIQAvD_BwE&hvadid=595899011230&hvdev=c&hvlocphy=9299502&hvnetw=g&hvqmt=b&hvrand=18361448126193068402&hvtargid=kwd-390450744186&hydadcr=23637_1876856&keywords=amazon+store+book&qid=1664717842&qu=eyJxc2MiOiIxLjUxIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sr=8-49"
 		"download-link": "https://www.pdfdrive.com/download.pdf?id=158774477&h=009ad5ac8eed601ecb09cc94b9b6556f&u=cache&ext=pdf"
-	},
+	}
+  
 ]
