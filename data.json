@@ -4510,8 +4510,75 @@
     "shopping-link": "https://leanpub.com/web-hacking-101",
     "download-link": "https://digtvbg.com/files/books-for-hacking/Web%20Hacking%20101%20-%20How%20to%20Make%20Money%20Hacking%20Ethically%20by%20Peter%20Yaworski.pdf"
   },
+	{
+		"id": 94,
+		"name": "Attitude is everything",
+		"number-pages": 144,
+		"author": "Jeff Keller ",
+		"publishing-year": "1999",
+		"shopping-link": "https://www.amazon.in/Attitude-Everything-Change-Your-Life/dp/9351772071",
+		"download-link": "https://www.pdfnotes.co/attitude-is-everything-book/"
+	},
   {
-    "id": 94,
+        "id": 95,
+		"name": "The Fault in our stars",
+		"number-pages": 336,
+		"author": "John Green",
+		"publishing-year": "2012",
+        "publisher": "Dutton Books for Young Readers",
+		"shopping-link": "https://www.amazon.in/Fault-Our-Stars-John-Green/dp/014242417X",
+		"download-link": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjtmIbBt8H6AhUbSmwGHWhcAMIQFnoECB4QAQ&url=https%3A%2F%2Fbooks-library.net%2Ffiles%2Fbooks-library.online-12292230Vr3R6.pdf&usg=AOvVaw3VLeA6GpLJFh2LGZfxFJBG"
+       },
+{
+		"id": 96,
+		"name": "Never Be Boring Again",
+		"number-pages": 352,
+		"author": "Dong Stevenson",
+		"publishing-year": "2004",
+		"shopping-link": "https://www.amazon.in/Business-Presentations-Capture-Attention-Inspire/dp/8176498408/ref=sr_1_7?crid=39WCZYGVAOETQ&keywords=boring+book&qid=1664721023&s=books&sprefix=boring+book%2Cstripbooks%2C483&sr=1-7",
+		"download-link": "https://public.summaries.com/files/1-page-summary/never-be-boring-again.pdf"
+  },
+	{
+		"id": 96,
+		"name": "What Every Body is Saying : An Ex-FBI Agent's Guide to Speed-Reading People",
+		"number-pages": 283,
+		"author": "Marvin Karlins Joe Navarro ",
+		"publishing-year": "2020",
+		"shopping-link": "https://www.amazon.in/What-Every-Body-Saying-Speed-Reading/dp/006306927X/ref=sr_1_49?adgrpid=136672682136&gclid=CjwKCAjw7eSZBhB8EiwA60kCWzuWQU0q2kT0KGTTUOrv81INlWNmG-SNLannBEPr5iHx1AV0di9zgxoCkdIQAvD_BwE&hvadid=595899011230&hvdev=c&hvlocphy=9299502&hvnetw=g&hvqmt=b&hvrand=18361448126193068402&hvtargid=kwd-390450744186&hydadcr=23637_1876856&keywords=amazon+store+book&qid=1664717842&qu=eyJxc2MiOiIxLjUxIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sr=8-49"
+		"download-link": "https://www.pdfdrive.com/download.pdf?id=158774477&h=009ad5ac8eed601ecb09cc94b9b6556f&u=cache&ext=pdf"
+	},
+  {
+    "id": 97,
+    "name": "Think Like A Monk",
+    "number-pages": 352,
+    "author": "Jay Shetty",
+    "publishing-year": "2020",
+    "publisher": "Simon & Schuster",
+    "shopping-link": "https://www.amazon.in/Think-Like-Monk-Jay-Shetty/dp/0008386595/ref=sr_1_3?keywords=think+like+a+monk&qid=1664788313&qu=eyJxc2MiOiIyLjA3IiwicXNhIjoiMS40NCIsInFzcCI6IjEuMDkifQ%3D%3D&sprefix=think+%2Caps%2C356&sr=8-3",
+    "download-link": "https://icrrd.com/media/16-05-2021-072848Think-Like-a-Monk.pdf"
+  },
+  {
+    "id": 98,
+    "name": "Think and Grow Rich",
+    "number-pages": 238,
+    "author": "Napoleon Hill",
+    "publishing-year": "1937",
+    "publisher": "The Ralston Society",
+    "shopping-link": "https://www.amazon.in/Think-Grow-Rich-Napoleon-Hill/dp/8192910911/ref=asc_df_8192910911/?tag=googleshopdes-21&linkCode=df0&hvadid=397010195686&hvpos=&hvnetw=g&hvrand=996060341805705978&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=20464&hvtargid=pla-318314934946&psc=1&ext_vrnc=hi",
+    "download-link": "https://apex.oracle.com/pls/apex/lonestar/r/files/static/v13Y/Think-And-Grow-Rich_2011-06.pdf"
+  },
+  {
+    "id": 99,
+    "name": "A Better India A Better Wolrd",
+    "number-pages": 313,
+    "author": "N.r. Narayana Murthy",
+    "publishing-year": "2009",
+    "publisher": "Narayana Murthy",
+    "shopping-link": "https://www.amazon.in/Better-India-World/dp/067008283X",
+    "download-link": "https://www.google.co.in/books/edition/A_BETTER_INDIA_A_BETTER_WORLD/ToJN-w3YRHsC?hl=en&gbpv=1&printsec=frontcover"
+   },
+   {
+    "id": 100,
     "name": "Attitude is everything",
     "number-pages": 144,
     "author": "Jeff Keller ",
@@ -4520,7 +4587,7 @@
     "download-link": "https://www.pdfnotes.co/attitude-is-everything-book/"
   },
   {
-    "id": 95,
+    "id": 101,
     "name": "The Fault in our stars",
     "number-pages": 336,
     "author": "John Green",
@@ -4530,7 +4597,7 @@
     "download-link": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjtmIbBt8H6AhUbSmwGHWhcAMIQFnoECB4QAQ&url=https%3A%2F%2Fbooks-library.net%2Ffiles%2Fbooks-library.online-12292230Vr3R6.pdf&usg=AOvVaw3VLeA6GpLJFh2LGZfxFJBG"
   },
   {
-    "id": 123,
+    "id": 102,
     "name": "You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life",
     "number-pages": 256,
     "author": "Jen Sincero",
