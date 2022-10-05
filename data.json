@@ -4532,8 +4532,17 @@
 		"shopping-link": "https://www.amazon.in/Fault-Our-Stars-John-Green/dp/014242417X",
 		"download-link": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjtmIbBt8H6AhUbSmwGHWhcAMIQFnoECB4QAQ&url=https%3A%2F%2Fbooks-library.net%2Ffiles%2Fbooks-library.online-12292230Vr3R6.pdf&usg=AOvVaw3VLeA6GpLJFh2LGZfxFJBG"
   },
+	{
+		"id": 96,
+		"name": "What Every Body is Saying : An Ex-FBI Agent's Guide to Speed-Reading People",
+		"number-pages": 283,
+		"author": "Marvin Karlins Joe Navarro ",
+		"publishing-year": "2020",
+		"shopping-link": "https://www.amazon.in/What-Every-Body-Saying-Speed-Reading/dp/006306927X/ref=sr_1_49?adgrpid=136672682136&gclid=CjwKCAjw7eSZBhB8EiwA60kCWzuWQU0q2kT0KGTTUOrv81INlWNmG-SNLannBEPr5iHx1AV0di9zgxoCkdIQAvD_BwE&hvadid=595899011230&hvdev=c&hvlocphy=9299502&hvnetw=g&hvqmt=b&hvrand=18361448126193068402&hvtargid=kwd-390450744186&hydadcr=23637_1876856&keywords=amazon+store+book&qid=1664717842&qu=eyJxc2MiOiIxLjUxIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sr=8-49"
+		"download-link": "https://www.pdfdrive.com/download.pdf?id=158774477&h=009ad5ac8eed601ecb09cc94b9b6556f&u=cache&ext=pdf"
+	},
   {
-    "id": 96,
+    "id": 97,
     "name": "Think Like A Monk",
     "number-pages": 352,
     "author": "Jay Shetty",
@@ -4543,7 +4552,7 @@
     "download-link": "https://icrrd.com/media/16-05-2021-072848Think-Like-a-Monk.pdf"
   },
   {
-    "id": 97,
+    "id": 98,
     "name": "Think and Grow Rich",
     "number-pages": 238,
     "author": "Napoleon Hill",
@@ -4552,5 +4561,4 @@
     "shopping-link": "https://www.amazon.in/Think-Grow-Rich-Napoleon-Hill/dp/8192910911/ref=asc_df_8192910911/?tag=googleshopdes-21&linkCode=df0&hvadid=397010195686&hvpos=&hvnetw=g&hvrand=996060341805705978&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=20464&hvtargid=pla-318314934946&psc=1&ext_vrnc=hi",
     "download-link": "https://apex.oracle.com/pls/apex/lonestar/r/files/static/v13Y/Think-And-Grow-Rich_2011-06.pdf"
   }
-
 ]
