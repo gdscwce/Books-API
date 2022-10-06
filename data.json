@@ -4615,5 +4615,35 @@
     "publisher": "HarperOne",
     "shopping-link": "https://www.amazon.com/Praise-Slowness-Challenging-Cult-Speed/dp/0060750510",
     "download-link": "https://www.amazon.com/Praise-Slowness-Challenging-Cult-Speed-ebook/dp/B0024CF0CK"
+  },
+  {
+    "id": 104,
+    "name": "The Black Sheep",
+    "number-pages": 307,
+    "author": "Honoré de Balzac",
+    "publishing-year": "2022",
+    "publisher": "E-BOOKARAMA",
+    "shopping-link": "https://www.amazon.in/Black-Sheep-Honor%C3%A9-Balzac-ebook/dp/B0892Y9JLS",
+    "download-link": "https://www.globalgreyebooks.com/black-sheep-ebook.html#downloads"
+  },
+  {
+    "id": 105,
+    "name": "Colonel Chabert",
+    "number-pages": 70,
+    "author": "Honoré de Balzac",
+    "publishing-year": "2009",
+    "publisher": "Book Jungle",
+    "shopping-link": "https://www.amazon.in/Colonel-Chabert-Honore-Balzac/dp/1438528426",
+    "download-link": "https://almabooks.com/wp-content/uploads/2021/02/ColonelChabertExtract.pdf"
+  },
+  {
+    "id": 106,
+    "name": "The Sign of the Beaver",
+    "number-pages": 135,
+    "author": "Elizabeth George Speare",
+    "publishing-year": "2011",
+    "publisher": "Clarion Books",
+    "shopping-link": "https://www.amazon.com/Sign-Beaver-Elizabeth-George-Speare/dp/0547577117",
+    "download-link": "https://mrparratore.weebly.com/uploads/1/1/0/0/110095453/sign_of_the_beaver_book.pdf" 
   }
 ]
