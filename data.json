@@ -2216,7 +2216,6 @@
     "shopping-link": "https://www.amazon.in/When-Only-Remains-Durjoy-Datta/dp/0143422642",
     "download-link": "https://pdflake.com/wp-content/uploads/2021/10/When-Only-Love-Remains-Durjoy-Datta-Books.pdf"
   },
-
   {
     "id": 1,
     "number-pages": 265,
@@ -4425,7 +4424,6 @@
     "shopping-link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiu9LLuw776AhVLk2YCHVTjAuUYABAFGgJzbQ&ae=2&sig=AOD64_3sM_6ouN-ldt4j7GXG3TQlA5fdBA&ctype=5&q=&ved=2ahUKEwjW1Kvuw776AhUf3TgGHe_GBX0Q9aACKAB6BAgEEAs&adurl=",
     "download-link": "http://pdvpmtasgaon.edu.in/uploads/dptcomputer/Let%20us%20c%20-%20yashwantkanetkar.pdf"
   },
-
   {
     "id": 153,
     "number-pages": 432,
@@ -4445,7 +4443,6 @@
     "shopping-link": "https://reedsy.com/discovery/book/frog-of-arcadia-blake-bobechko#review",
     "download-link": "https://www.researchgate.net/publication/336748107_First_records_of_the_Greenhouse_Frog_Eleutherodactylus_planirostris_in_Southern_Negros_Philippines"
   },
-
   {
     "id": 92,
     "name": "Tuesdays with morrie",
@@ -4544,7 +4541,7 @@
     "number-pages": 283,
     "author": "Marvin Karlins Joe Navarro ",
     "publishing-year": "2020",
-    "shopping-link": "https://www.amazon.in/What-Every-Body-Saying-Speed-Reading/dp/006306927X/ref=sr_1_49?adgrpid=136672682136&gclid=CjwKCAjw7eSZBhB8EiwA60kCWzuWQU0q2kT0KGTTUOrv81INlWNmG-SNLannBEPr5iHx1AV0di9zgxoCkdIQAvD_BwE&hvadid=595899011230&hvdev=c&hvlocphy=9299502&hvnetw=g&hvqmt=b&hvrand=18361448126193068402&hvtargid=kwd-390450744186&hydadcr=23637_1876856&keywords=amazon+store+book&qid=1664717842&qu=eyJxc2MiOiIxLjUxIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sr=8-49"
+    "shopping-link": "https://www.amazon.in/What-Every-Body-Saying-Speed-Reading/dp/006306927X/ref=sr_1_49?adgrpid=136672682136&gclid=CjwKCAjw7eSZBhB8EiwA60kCWzuWQU0q2kT0KGTTUOrv81INlWNmG-SNLannBEPr5iHx1AV0di9zgxoCkdIQAvD_BwE&hvadid=595899011230&hvdev=c&hvlocphy=9299502&hvnetw=g&hvqmt=b&hvrand=18361448126193068402&hvtargid=kwd-390450744186&hydadcr=23637_1876856&keywords=amazon+store+book&qid=1664717842&qu=eyJxc2MiOiIxLjUxIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sr=8-49",
     "download-link": "https://www.pdfdrive.com/download.pdf?id=158774477&h=009ad5ac8eed601ecb09cc94b9b6556f&u=cache&ext=pdf"
   },
   {
@@ -4618,6 +4615,15 @@
   },
   {
     "id": 104,
+    "name": "The Power of Your Subconscious Mind",
+    "number-pages": 232,
+    "author": "Joseph Murphy",
+    "publishing-year": "2020",
+    "shopping-link": "https://www.amazon.in/Power-Your-Subconscious-Mind/dp/8194790832/ref=pd_bxgy_img_sccl_2/257-9410164-9142465?pd_rd_w=V1GHM&content-id=amzn1.sym.d68c4347-8b80-4998-9474-4671a1e32e96&pf_rd_p=d68c4347-8b80-4998-9474-4671a1e32e96&pf_rd_r=ARG36NKSH8MCKP47SRD5&pd_rd_wg=TLwtY&pd_rd_r=b3754809-0d3b-47e0-a654-6afd00057d9c&pd_rd_i=8194790832&psc=1",
+    "download-link": "https://instapdf.in/the-power-of-subconscious-mind/"
+  },
+  {
+    "id": 105,
     "name": "Deepaali Working",
     "number-pages": 280,
     "author": "Carlu Npewport",
@@ -4626,17 +4632,17 @@
     "download-link": "https://www.pdfdrive.com/deep-work-cal-newport-e33410582.html"
   },
   {
-      "id": 105,
-      "name": "Panipat",
-      "number-pages": 321,
-      "author": "Vishwas Patil",
-      "publishing-year": "1988",
-      "publisher": "HarperOne",
-      "shopping-link": "https://www.amazon.in/Panipat-Vishwas-Patil/dp/8174349065",
-      "download-link": "https://www.amazon.in/Panipat-Vishwas-Patil/dp/8174349065"
+    "id": 106,
+    "name": "Panipat",
+    "number-pages": 321,
+    "author": "Vishwas Patil",
+    "publishing-year": "1988",
+    "publisher": "HarperOne",
+    "shopping-link": "https://www.amazon.in/Panipat-Vishwas-Patil/dp/8174349065",
+    "download-link": "https://www.amazon.in/Panipat-Vishwas-Patil/dp/8174349065"
   },
   {
-    "id":106,
+    "id": 107,
     "name": "ReWork",
     "number-pages": 288,
     "author": "David Heinemeier Hansson",
@@ -4646,7 +4652,7 @@
     "download-link": "https://book4you.org/book/1257901/7b4737"
   },
   {
-    "id": 107,
+    "id": 108,
     "name": "The Black Sheep",
     "number-pages": 307,
     "author": "Honoré de Balzac",
@@ -4656,7 +4662,7 @@
     "download-link": "https://www.globalgreyebooks.com/black-sheep-ebook.html#downloads"
   },
   {
-    "id": 108,
+    "id": 109,
     "name": "Colonel Chabert",
     "number-pages": 70,
     "author": "Honoré de Balzac",
@@ -4666,17 +4672,17 @@
     "download-link": "https://almabooks.com/wp-content/uploads/2021/02/ColonelChabertExtract.pdf"
   },
   {
-    "id": 109,
+    "id": 110,
     "name": "The Sign of the Beaver",
     "number-pages": 135,
     "author": "Elizabeth George Speare",
     "publishing-year": "2011",
     "publisher": "Clarion Books",
     "shopping-link": "https://www.amazon.com/Sign-Beaver-Elizabeth-George-Speare/dp/0547577117",
-    "download-link": "https://mrparratore.weebly.com/uploads/1/1/0/0/110095453/sign_of_the_beaver_book.pdf" 
+    "download-link": "https://mrparratore.weebly.com/uploads/1/1/0/0/110095453/sign_of_the_beaver_book.pdf"
   },
   {
-    
+    "id": 111,
     "name": "The Time Machine",
     "number-pages": 117,
     "author": "H G Wells",
