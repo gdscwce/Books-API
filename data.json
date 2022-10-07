@@ -4625,5 +4625,15 @@
     "publisher": "FSC",
     "shopping-link": "https://www.amazon.in/ReWork-Change-Way-Work-Forever/dp/0091929784",
     "download-link": "https://book4you.org/book/1257901/7b4737"
+  },
+  {
+      "id": 104,
+      "name": "Panipat",
+      "number-pages": 321,
+      "author": "Vishwas Patil",
+      "publishing-year": "1988",
+      "publisher": "HarperOne",
+      "shopping-link": "https://www.amazon.in/Panipat-Vishwas-Patil/dp/8174349065",
+      "download-link": "https://www.amazon.in/Panipat-Vishwas-Patil/dp/8174349065"
   }
 ]
