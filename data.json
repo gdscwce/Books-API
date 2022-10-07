@@ -2216,7 +2216,6 @@
     "shopping-link": "https://www.amazon.in/When-Only-Remains-Durjoy-Datta/dp/0143422642",
     "download-link": "https://pdflake.com/wp-content/uploads/2021/10/When-Only-Love-Remains-Durjoy-Datta-Books.pdf"
   },
-
   {
     "id": 1,
     "number-pages": 265,
@@ -4425,7 +4424,6 @@
     "shopping-link": "https://www.google.com/aclk?sa=l&ai=DChcSEwiu9LLuw776AhVLk2YCHVTjAuUYABAFGgJzbQ&ae=2&sig=AOD64_3sM_6ouN-ldt4j7GXG3TQlA5fdBA&ctype=5&q=&ved=2ahUKEwjW1Kvuw776AhUf3TgGHe_GBX0Q9aACKAB6BAgEEAs&adurl=",
     "download-link": "http://pdvpmtasgaon.edu.in/uploads/dptcomputer/Let%20us%20c%20-%20yashwantkanetkar.pdf"
   },
-
   {
     "id": 153,
     "number-pages": 432,
@@ -4445,7 +4443,6 @@
     "shopping-link": "https://reedsy.com/discovery/book/frog-of-arcadia-blake-bobechko#review",
     "download-link": "https://www.researchgate.net/publication/336748107_First_records_of_the_Greenhouse_Frog_Eleutherodactylus_planirostris_in_Southern_Negros_Philippines"
   },
-
   {
     "id": 92,
     "name": "Tuesdays with morrie",
@@ -4510,43 +4507,43 @@
     "shopping-link": "https://leanpub.com/web-hacking-101",
     "download-link": "https://digtvbg.com/files/books-for-hacking/Web%20Hacking%20101%20-%20How%20to%20Make%20Money%20Hacking%20Ethically%20by%20Peter%20Yaworski.pdf"
   },
-	{
-		"id": 94,
-		"name": "Attitude is everything",
-		"number-pages": 144,
-		"author": "Jeff Keller ",
-		"publishing-year": "1999",
-		"shopping-link": "https://www.amazon.in/Attitude-Everything-Change-Your-Life/dp/9351772071",
-		"download-link": "https://www.pdfnotes.co/attitude-is-everything-book/"
-	},
   {
-        "id": 95,
-		"name": "The Fault in our stars",
-		"number-pages": 336,
-		"author": "John Green",
-		"publishing-year": "2012",
-        "publisher": "Dutton Books for Young Readers",
-		"shopping-link": "https://www.amazon.in/Fault-Our-Stars-John-Green/dp/014242417X",
-		"download-link": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjtmIbBt8H6AhUbSmwGHWhcAMIQFnoECB4QAQ&url=https%3A%2F%2Fbooks-library.net%2Ffiles%2Fbooks-library.online-12292230Vr3R6.pdf&usg=AOvVaw3VLeA6GpLJFh2LGZfxFJBG"
-       },
-{
-		"id": 96,
-		"name": "Never Be Boring Again",
-		"number-pages": 352,
-		"author": "Dong Stevenson",
-		"publishing-year": "2004",
-		"shopping-link": "https://www.amazon.in/Business-Presentations-Capture-Attention-Inspire/dp/8176498408/ref=sr_1_7?crid=39WCZYGVAOETQ&keywords=boring+book&qid=1664721023&s=books&sprefix=boring+book%2Cstripbooks%2C483&sr=1-7",
-		"download-link": "https://public.summaries.com/files/1-page-summary/never-be-boring-again.pdf"
+    "id": 94,
+    "name": "Attitude is everything",
+    "number-pages": 144,
+    "author": "Jeff Keller ",
+    "publishing-year": "1999",
+    "shopping-link": "https://www.amazon.in/Attitude-Everything-Change-Your-Life/dp/9351772071",
+    "download-link": "https://www.pdfnotes.co/attitude-is-everything-book/"
   },
-	{
-		"id": 96,
-		"name": "What Every Body is Saying : An Ex-FBI Agent's Guide to Speed-Reading People",
-		"number-pages": 283,
-		"author": "Marvin Karlins Joe Navarro ",
-		"publishing-year": "2020",
-		"shopping-link": "https://www.amazon.in/What-Every-Body-Saying-Speed-Reading/dp/006306927X/ref=sr_1_49?adgrpid=136672682136&gclid=CjwKCAjw7eSZBhB8EiwA60kCWzuWQU0q2kT0KGTTUOrv81INlWNmG-SNLannBEPr5iHx1AV0di9zgxoCkdIQAvD_BwE&hvadid=595899011230&hvdev=c&hvlocphy=9299502&hvnetw=g&hvqmt=b&hvrand=18361448126193068402&hvtargid=kwd-390450744186&hydadcr=23637_1876856&keywords=amazon+store+book&qid=1664717842&qu=eyJxc2MiOiIxLjUxIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sr=8-49"
-		"download-link": "https://www.pdfdrive.com/download.pdf?id=158774477&h=009ad5ac8eed601ecb09cc94b9b6556f&u=cache&ext=pdf"
-	},
+  {
+    "id": 95,
+    "name": "The Fault in our stars",
+    "number-pages": 336,
+    "author": "John Green",
+    "publishing-year": "2012",
+    "publisher": "Dutton Books for Young Readers",
+    "shopping-link": "https://www.amazon.in/Fault-Our-Stars-John-Green/dp/014242417X",
+    "download-link": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjtmIbBt8H6AhUbSmwGHWhcAMIQFnoECB4QAQ&url=https%3A%2F%2Fbooks-library.net%2Ffiles%2Fbooks-library.online-12292230Vr3R6.pdf&usg=AOvVaw3VLeA6GpLJFh2LGZfxFJBG"
+  },
+  {
+    "id": 96,
+    "name": "Never Be Boring Again",
+    "number-pages": 352,
+    "author": "Dong Stevenson",
+    "publishing-year": "2004",
+    "shopping-link": "https://www.amazon.in/Business-Presentations-Capture-Attention-Inspire/dp/8176498408/ref=sr_1_7?crid=39WCZYGVAOETQ&keywords=boring+book&qid=1664721023&s=books&sprefix=boring+book%2Cstripbooks%2C483&sr=1-7",
+    "download-link": "https://public.summaries.com/files/1-page-summary/never-be-boring-again.pdf"
+  },
+  {
+    "id": 96,
+    "name": "What Every Body is Saying : An Ex-FBI Agent's Guide to Speed-Reading People",
+    "number-pages": 283,
+    "author": "Marvin Karlins Joe Navarro ",
+    "publishing-year": "2020",
+    "shopping-link": "https://www.amazon.in/What-Every-Body-Saying-Speed-Reading/dp/006306927X/ref=sr_1_49?adgrpid=136672682136&gclid=CjwKCAjw7eSZBhB8EiwA60kCWzuWQU0q2kT0KGTTUOrv81INlWNmG-SNLannBEPr5iHx1AV0di9zgxoCkdIQAvD_BwE&hvadid=595899011230&hvdev=c&hvlocphy=9299502&hvnetw=g&hvqmt=b&hvrand=18361448126193068402&hvtargid=kwd-390450744186&hydadcr=23637_1876856&keywords=amazon+store+book&qid=1664717842&qu=eyJxc2MiOiIxLjUxIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sr=8-49",
+    "download-link": "https://www.pdfdrive.com/download.pdf?id=158774477&h=009ad5ac8eed601ecb09cc94b9b6556f&u=cache&ext=pdf"
+  },
   {
     "id": 97,
     "name": "Think Like A Monk",
@@ -4576,8 +4573,8 @@
     "publisher": "Narayana Murthy",
     "shopping-link": "https://www.amazon.in/Better-India-World/dp/067008283X",
     "download-link": "https://www.google.co.in/books/edition/A_BETTER_INDIA_A_BETTER_WORLD/ToJN-w3YRHsC?hl=en&gbpv=1&printsec=frontcover"
-   },
-   {
+  },
+  {
     "id": 100,
     "name": "Attitude is everything",
     "number-pages": 144,
@@ -4616,17 +4613,36 @@
     "shopping-link": "https://www.amazon.com/Praise-Slowness-Challenging-Cult-Speed/dp/0060750510",
     "download-link": "https://www.amazon.com/Praise-Slowness-Challenging-Cult-Speed-ebook/dp/B0024CF0CK"
   },
-{
-		"id": 104,
-		"name": "The Power of Your Subconscious Mind",
-		"number-pages": 232,
-		"author": "Joseph Murphy",
-		"publishing-year": "2020",
-		"shopping-link": "https://www.amazon.in/Power-Your-Subconscious-Mind/dp/8194790832/ref=pd_bxgy_img_sccl_2/257-9410164-9142465?pd_rd_w=V1GHM&content-id=amzn1.sym.d68c4347-8b80-4998-9474-4671a1e32e96&pf_rd_p=d68c4347-8b80-4998-9474-4671a1e32e96&pf_rd_r=ARG36NKSH8MCKP47SRD5&pd_rd_wg=TLwtY&pd_rd_r=b3754809-0d3b-47e0-a654-6afd00057d9c&pd_rd_i=8194790832&psc=1",
-		"download-link": "https://instapdf.in/the-power-of-subconscious-mind/"
- },
+  {
+    "id": 104,
+    "name": "The Power of Your Subconscious Mind",
+    "number-pages": 232,
+    "author": "Joseph Murphy",
+    "publishing-year": "2020",
+    "shopping-link": "https://www.amazon.in/Power-Your-Subconscious-Mind/dp/8194790832/ref=pd_bxgy_img_sccl_2/257-9410164-9142465?pd_rd_w=V1GHM&content-id=amzn1.sym.d68c4347-8b80-4998-9474-4671a1e32e96&pf_rd_p=d68c4347-8b80-4998-9474-4671a1e32e96&pf_rd_r=ARG36NKSH8MCKP47SRD5&pd_rd_wg=TLwtY&pd_rd_r=b3754809-0d3b-47e0-a654-6afd00057d9c&pd_rd_i=8194790832&psc=1",
+    "download-link": "https://instapdf.in/the-power-of-subconscious-mind/"
+  },
   {
     "id": 105,
+    "name": "Deepaali Working",
+    "number-pages": 280,
+    "author": "Carlu Npewport",
+    "publishing-year": "2014",
+    "shopping-link": "https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692",
+    "download-link": "https://www.pdfdrive.com/deep-work-cal-newport-e33410582.html"
+  },
+  {
+    "id": 106,
+    "name": "Panipat",
+    "number-pages": 321,
+    "author": "Vishwas Patil",
+    "publishing-year": "1988",
+    "publisher": "HarperOne",
+    "shopping-link": "https://www.amazon.in/Panipat-Vishwas-Patil/dp/8174349065",
+    "download-link": "https://www.amazon.in/Panipat-Vishwas-Patil/dp/8174349065"
+  },
+  {
+    "id": 107,
     "name": "ReWork",
     "number-pages": 288,
     "author": "David Heinemeier Hansson",
@@ -4634,5 +4650,45 @@
     "publisher": "FSC",
     "shopping-link": "https://www.amazon.in/ReWork-Change-Way-Work-Forever/dp/0091929784",
     "download-link": "https://book4you.org/book/1257901/7b4737"
+  },
+  {
+    "id": 108,
+    "name": "The Black Sheep",
+    "number-pages": 307,
+    "author": "Honoré de Balzac",
+    "publishing-year": "2022",
+    "publisher": "E-BOOKARAMA",
+    "shopping-link": "https://www.amazon.in/Black-Sheep-Honor%C3%A9-Balzac-ebook/dp/B0892Y9JLS",
+    "download-link": "https://www.globalgreyebooks.com/black-sheep-ebook.html#downloads"
+  },
+  {
+    "id": 109,
+    "name": "Colonel Chabert",
+    "number-pages": 70,
+    "author": "Honoré de Balzac",
+    "publishing-year": "2009",
+    "publisher": "Book Jungle",
+    "shopping-link": "https://www.amazon.in/Colonel-Chabert-Honore-Balzac/dp/1438528426",
+    "download-link": "https://almabooks.com/wp-content/uploads/2021/02/ColonelChabertExtract.pdf"
+  },
+  {
+    "id": 110,
+    "name": "The Sign of the Beaver",
+    "number-pages": 135,
+    "author": "Elizabeth George Speare",
+    "publishing-year": "2011",
+    "publisher": "Clarion Books",
+    "shopping-link": "https://www.amazon.com/Sign-Beaver-Elizabeth-George-Speare/dp/0547577117",
+    "download-link": "https://mrparratore.weebly.com/uploads/1/1/0/0/110095453/sign_of_the_beaver_book.pdf"
+  },
+  {
+    "id": 111,
+    "name": "The Time Machine",
+    "number-pages": 117,
+    "author": "H G Wells",
+    "publishing-year": "2015",
+    "publisher": "Fingerprint!",
+    "shopping-link": "https://www.amazon.in/Time-Machine-H-G-Wells/dp/8175992956/ref=sr_1_37?keywords=amazon+store+book&qid=1665083751&qu=eyJxc2MiOiIxLjUxIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=%2Caps%2C775&sr=8-37",
+    "download-link": "https://www.planetebook.com/free-ebooks/the-time-machine.pdf"
   }
 ]
