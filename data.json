@@ -4618,6 +4618,65 @@
   },
   {
     "id": 104,
+    "name": "Deepaali Working",
+    "number-pages": 280,
+    "author": "Carlu Npewport",
+    "publishing-year": "2014",
+    "shopping-link": "https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692",
+    "download-link": "https://www.pdfdrive.com/deep-work-cal-newport-e33410582.html"
+  },
+  {
+      "id": 105,
+      "name": "Panipat",
+      "number-pages": 321,
+      "author": "Vishwas Patil",
+      "publishing-year": "1988",
+      "publisher": "HarperOne",
+      "shopping-link": "https://www.amazon.in/Panipat-Vishwas-Patil/dp/8174349065",
+      "download-link": "https://www.amazon.in/Panipat-Vishwas-Patil/dp/8174349065"
+  },
+  {
+    "id":106,
+    "name": "ReWork",
+    "number-pages": 288,
+    "author": "David Heinemeier Hansson",
+    "publishing-year": "2010",
+    "publisher": "FSC",
+    "shopping-link": "https://www.amazon.in/ReWork-Change-Way-Work-Forever/dp/0091929784",
+    "download-link": "https://book4you.org/book/1257901/7b4737"
+  },
+  {
+    "id": 107,
+    "name": "The Black Sheep",
+    "number-pages": 307,
+    "author": "Honoré de Balzac",
+    "publishing-year": "2022",
+    "publisher": "E-BOOKARAMA",
+    "shopping-link": "https://www.amazon.in/Black-Sheep-Honor%C3%A9-Balzac-ebook/dp/B0892Y9JLS",
+    "download-link": "https://www.globalgreyebooks.com/black-sheep-ebook.html#downloads"
+  },
+  {
+    "id": 108,
+    "name": "Colonel Chabert",
+    "number-pages": 70,
+    "author": "Honoré de Balzac",
+    "publishing-year": "2009",
+    "publisher": "Book Jungle",
+    "shopping-link": "https://www.amazon.in/Colonel-Chabert-Honore-Balzac/dp/1438528426",
+    "download-link": "https://almabooks.com/wp-content/uploads/2021/02/ColonelChabertExtract.pdf"
+  },
+  {
+    "id": 109,
+    "name": "The Sign of the Beaver",
+    "number-pages": 135,
+    "author": "Elizabeth George Speare",
+    "publishing-year": "2011",
+    "publisher": "Clarion Books",
+    "shopping-link": "https://www.amazon.com/Sign-Beaver-Elizabeth-George-Speare/dp/0547577117",
+    "download-link": "https://mrparratore.weebly.com/uploads/1/1/0/0/110095453/sign_of_the_beaver_book.pdf" 
+  },
+  {
+    
     "name": "The Time Machine",
     "number-pages": 117,
     "author": "H G Wells",
