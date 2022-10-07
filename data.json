@@ -4618,16 +4618,15 @@
   },
   {
     "id": 104,
-    "name": "ReWork",
-    "number-pages": 288,
-    "author": "David Heinemeier Hansson",
-    "publishing-year": "2010",
-    "publisher": "FSC",
-    "shopping-link": "https://www.amazon.in/ReWork-Change-Way-Work-Forever/dp/0091929784",
-    "download-link": "https://book4you.org/book/1257901/7b4737"
+    "name": "Deepaali Working",
+    "number-pages": 280,
+    "author": "Carlu Npewport",
+    "publishing-year": "2014",
+    "shopping-link": "https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692",
+    "download-link": "https://www.pdfdrive.com/deep-work-cal-newport-e33410582.html"
   },
   {
-      "id": 104,
+      "id": 105,
       "name": "Panipat",
       "number-pages": 321,
       "author": "Vishwas Patil",
@@ -4635,5 +4634,15 @@
       "publisher": "HarperOne",
       "shopping-link": "https://www.amazon.in/Panipat-Vishwas-Patil/dp/8174349065",
       "download-link": "https://www.amazon.in/Panipat-Vishwas-Patil/dp/8174349065"
-  }
+  },
+  {
+    "id":106,
+    "name": "ReWork",
+    "number-pages": 288,
+    "author": "David Heinemeier Hansson",
+    "publishing-year": "2010",
+    "publisher": "FSC",
+    "shopping-link": "https://www.amazon.in/ReWork-Change-Way-Work-Forever/dp/0091929784",
+    "download-link": "https://book4you.org/book/1257901/7b4737"
+    }
 ]
