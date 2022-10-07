@@ -4624,5 +4624,15 @@
 		"publishing-year": "2020",
 		"shopping-link": "https://www.amazon.in/Power-Your-Subconscious-Mind/dp/8194790832/ref=pd_bxgy_img_sccl_2/257-9410164-9142465?pd_rd_w=V1GHM&content-id=amzn1.sym.d68c4347-8b80-4998-9474-4671a1e32e96&pf_rd_p=d68c4347-8b80-4998-9474-4671a1e32e96&pf_rd_r=ARG36NKSH8MCKP47SRD5&pd_rd_wg=TLwtY&pd_rd_r=b3754809-0d3b-47e0-a654-6afd00057d9c&pd_rd_i=8194790832&psc=1",
 		"download-link": "https://instapdf.in/the-power-of-subconscious-mind/"
- }
+ },
+  {
+    "id": 105,
+    "name": "ReWork",
+    "number-pages": 288,
+    "author": "David Heinemeier Hansson",
+    "publishing-year": "2010",
+    "publisher": "FSC",
+    "shopping-link": "https://www.amazon.in/ReWork-Change-Way-Work-Forever/dp/0091929784",
+    "download-link": "https://book4you.org/book/1257901/7b4737"
+  }
 ]
