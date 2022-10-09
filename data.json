@@ -4692,7 +4692,15 @@
     "download-link": "https://www.planetebook.com/free-ebooks/the-time-machine.pdf"
   },
   {
-    "id": 112,
+		"id": 112,
+		"name": "Poor Economics: Rethinking Poverty & the Ways to End it",
+		"number-pages": 464,
+		"author": "Abhijit V. Banerjee and  Esther Duflo ",
+		"publishing-year": "2013",
+		"shopping-link": "https://www.amazon.in/Poor-Economics-Rethinking-Poverty-Ways/dp/8184002807/ref=d_pd_sbs_sccl_2_9/257-9410164-9142465?pd_rd_w=xhkLm&content-id=amzn1.sym.2db7fcb9-4c68-4d7a-84ce-450f877f4572&pf_rd_p=2db7fcb9-4c68-4d7a-84ce-450f877f4572&pf_rd_r=1YQBKGX2WDPDFFTRE5R5&pd_rd_wg=ywiba&pd_rd_r=bf2f200d-53a0-4a17-918c-2deb1f282d93&pd_rd_i=8184002807&psc=1",
+		"download-link": "https://cdgi.edu.in/pdf/Poor%20Economics%20-%20Dr.%20Abhijit%20Banerjee.pdf"
+ }
+    "id": 113,
     "name": "The Time Machine 2.0",
     "number-pages": 117,
     "author": "H G Wells",
@@ -4702,7 +4710,7 @@
     "download-link": "https://www.planetebook.com/free-ebooks/the-time-machine.pdf"
   },
   {
-    "id": 113,
+    "id": 114,
     "name": "The Time Machine returns",
     "number-pages": 117,
     "author": "H G Wells",
