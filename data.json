@@ -4710,5 +4710,15 @@
     "publisher": "Fingerprint!",
     "shopping-link": "https://www.amazon.in/Time-Machine-H-G-Wells/dp/8175992956/ref=sr_1_37?keywords=amazon+store+book&qid=1665083751&qu=eyJxc2MiOiIxLjUxIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=%2Caps%2C775&sr=8-37",
     "download-link": "https://www.planetebook.com/free-ebooks/the-time-machine.pdf"
-  }
+  },
+  {
+    "id": 114,
+    "name": "The book of lost things",
+    "number-pages": 486,
+    "author": "John collony",
+    "publishing-year": "2006",
+    "publisher": "Atlantic Publishers and distributers",
+    "shopping-link": "https://www.amazon.in/Book-Lost-Things-John-Connolly/dp/1442429348",
+    "download-link": "https://www.pdfdrive.com/the-book-of-lost-things-by-john-connolly-d20877691.html"
+  },
 ]
