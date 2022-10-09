@@ -4710,5 +4710,15 @@
     "publisher": "Fingerprint!",
     "shopping-link": "https://www.amazon.in/Time-Machine-H-G-Wells/dp/8175992956/ref=sr_1_37?keywords=amazon+store+book&qid=1665083751&qu=eyJxc2MiOiIxLjUxIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=%2Caps%2C775&sr=8-37",
     "download-link": "https://www.planetebook.com/free-ebooks/the-time-machine.pdf"
-  }
+  },
+  {
+    "id": 115,
+    "number-pages": 99,
+    "name": "Isel of Dead Ships",
+    "author": "mr agent",
+    "publishing-year": "2003",
+    "publisher": "Lippincott Company, 1909",
+    "shopping-link": "https://www.amazon.com/Isle-Dead-Ships-Crittenden-MARRIOTT/dp/B000HX1MBG",
+    "download-link": "https://www.gutenberg.org/ebooks/69065"
+  },
 ]
