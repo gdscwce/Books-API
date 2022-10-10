@@ -445,11 +445,12 @@
   },
   {
     "id": 47,
+    "name": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
     "number-pages": 320,
-    "author": "James clear",
-    "publishinM-year": "2018",
-    "publisher": "PenguinRandomHouse ",
-    "shopping-link": "https://www.amazon.in/Atomic-Habits-James-Clear/dp/1847941834/ref=asc_df_1847941834/?tag=googleshopdes-21&linkCode=df0&hvadid=396987849297&hvpos=&hvnetw=g&hvrand=9469622242698612474&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9299716&hvtargid=pla-551566274852&psc=1&ext_vrnc=hi",
+    "author": "James Clear",
+    "publishing-year": "2018",
+    "publisher": "Avery",
+    "shopping-link": "https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299",
     "download-link": "https://archive.org/download/atomic-habits_202104/Atomic%20Habits.pdf"
   },
   {
@@ -4710,5 +4711,15 @@
     "publisher": "Fingerprint!",
     "shopping-link": "https://www.amazon.in/Time-Machine-H-G-Wells/dp/8175992956/ref=sr_1_37?keywords=amazon+store+book&qid=1665083751&qu=eyJxc2MiOiIxLjUxIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=%2Caps%2C775&sr=8-37",
     "download-link": "https://www.planetebook.com/free-ebooks/the-time-machine.pdf"
+  },
+  {
+    "id": 114,
+    "name": "Stories of Your Life and Others",
+    "number-pages": 304,
+    "author": "Ted Chiang",
+    "publishing-year": "2016",
+    "publisher": "Vintage",
+    "shopping-link": "https://www.amazon.com/Stories-Your-Life-Others-Chiang/dp/1101972122",
+    "download-link": "http://62.182.86.140/main/743000/52e4643d76a3671d69514a1628373dfb/Ted%20Chiang%20-%20Stories%20of%20Your%20Life%20and%20Others%20%20-Pan%20Macmillan%20%282005%29.epub"
   }
 ]
