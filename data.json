@@ -4710,5 +4710,15 @@
     "publisher": "Fingerprint!",
     "shopping-link": "https://www.amazon.in/Time-Machine-H-G-Wells/dp/8175992956/ref=sr_1_37?keywords=amazon+store+book&qid=1665083751&qu=eyJxc2MiOiIxLjUxIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=%2Caps%2C775&sr=8-37",
     "download-link": "https://www.planetebook.com/free-ebooks/the-time-machine.pdf"
+  },
+  {
+    "id": 114,
+    "name": "Data Structure Using C",
+    "number-pages": 557,
+    "author": "Reema Thareja",
+    "publishing-year": "2014",
+    "publisher": "Oxford University Press",
+    "shopping-link": "https://www.amazon.in/Data-Structures-Using-Reema-Thareja/dp/0198099304",
+    "download-link": "https://aa.bbs.tr/lab/cen215-data-structures/Data-Structures-Using-C-2nd-edition.pdf"
   }
 ]
