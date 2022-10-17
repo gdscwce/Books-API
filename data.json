@@ -4710,5 +4710,14 @@
     "publisher": "Fingerprint!",
     "shopping-link": "https://www.amazon.in/Time-Machine-H-G-Wells/dp/8175992956/ref=sr_1_37?keywords=amazon+store+book&qid=1665083751&qu=eyJxc2MiOiIxLjUxIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=%2Caps%2C775&sr=8-37",
     "download-link": "https://www.planetebook.com/free-ebooks/the-time-machine.pdf"
-  }
+  },
+  {
+    "id": 114,
+    "number-pages": 200,
+    "name": "Who moved my cheeses",
+    "author": "Where is my Cheese",
+    "publishing-year": "2004",
+    "shopping-link": "https://www.amazon.in/Who-Moved-Cheese-Spencer-Johnson/dp/0091883768#:~:text=Who%20Moved%20My%20Cheese%3F%20is,them%20and%20make%20them%20happy",
+    "download-link": "https://en.wikipedia.org/wiki/Who_Moved_My_Cheese%3F"
+  },
 ]
