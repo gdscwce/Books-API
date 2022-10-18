@@ -4710,5 +4710,15 @@
     "publisher": "Fingerprint!",
     "shopping-link": "https://www.amazon.in/Time-Machine-H-G-Wells/dp/8175992956/ref=sr_1_37?keywords=amazon+store+book&qid=1665083751&qu=eyJxc2MiOiIxLjUxIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=%2Caps%2C775&sr=8-37",
     "download-link": "https://www.planetebook.com/free-ebooks/the-time-machine.pdf"
-  }
+  },
+    {
+    "id": 114,
+    "number-pages": 240,
+    "name": "2 states",
+    "author": "chetan bhagat",
+    "publishing-year": "2009",
+    "publisher": "Rupa Pub.",
+    "shopping-link": "https://www.amazon.in/2-States-Story-My-Marriage/dp/8129135523",
+    "download-link": "https://instapdf.in/two-states-by-chetan-bhagat/"
+  },
 ]
